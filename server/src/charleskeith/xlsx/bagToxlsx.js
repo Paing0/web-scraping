@@ -4,7 +4,7 @@ import ExcelJS from "exceljs";
 const exchange_rate = 3450;
 
 // --- Load product data from JSON file ---
-const rawData = fs.readFileSync("../../data/bagsData.json", "utf-8");
+const rawData = fs.readFileSync("../../data/json/bagsData.json", "utf-8");
 const products = JSON.parse(rawData);
 
 // --- Generate rows for all products ---
@@ -15,15 +15,9 @@ const generateRows = (product) => {
     .map(([key, val]) => `"${key}": "${val}"`)
     .join(", ");
 
-  const parsedColorAndPrices = product.colorAndPrice.map((entry) => {
-    const colorMatch = entry.match(/color: (.*?),/);
-
-    return {
-      color: colorMatch ? colorMatch[1].replace(/_/g, " ") : "Unknown",
-    };
-  });
-
-  const colors = parsedColorAndPrices.map((p) => p.color).join(", ");
+  const colors = product.colorAndPriceAndUrlAndImageUrls
+    .map((entry) => entry.color.replace(/_/g, " "))
+    .join(", ");
 
   return [
     {
@@ -34,8 +28,9 @@ const generateRows = (product) => {
       product_x_studio_sgd_discounted_price: 0,
       product_x_studio_sgd_1: 0,
       product_x_studio_fx_rate: exchange_rate,
-      product_x_studio_web_org_url: product.url,
-      image: "",
+      product_x_studio_web_org_url:
+        product.colorAndPriceAndUrlAndImageUrls[0].url,
+      image: product.colorAndPriceAndUrlAndImageUrls[0].imagesUrls[0],
       product_x_studio_product_details_1: detailsStr,
       Type: "Goods",
       categ_id: "All / Women / Bags",
@@ -63,7 +58,7 @@ async function exportToExcel() {
   sheet.columns = headers.map((header) => ({ header, key: header }));
   allRows.forEach((row) => sheet.addRow(row));
 
-  await workbook.xlsx.writeFile("exported_products.xlsx");
+  await workbook.xlsx.writeFile("../../data/xlsx/exported_products.xlsx");
   console.log("✅ Excel file created: exported_products.xlsx");
 }
 

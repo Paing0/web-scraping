@@ -3,7 +3,7 @@ import ExcelJS from "exceljs";
 
 async function exportProductAttributeValueFromFile() {
   try {
-    const data = await fs.readFile("../../data/bagsData.json", "utf-8");
+    const data = await fs.readFile("../../data/json/bagsData.json", "utf-8");
     const products = JSON.parse(data);
 
     const workbook = new ExcelJS.Workbook();
@@ -13,9 +13,12 @@ async function exportProductAttributeValueFromFile() {
 
     // Collect all unique colors from all products
     products.forEach((product) => {
-      product.colorAndPrice?.forEach((entry) => {
-        const match = entry.match(/color: ([^,]+)/);
-        if (match) colorSet.add(match[1]);
+      product.colorAndPriceAndUrlAndImageUrls?.forEach((entry) => {
+        if (entry.color) {
+          // Replace underscores with spaces for readability
+          const cleanedColor = entry.color.replace(/_/g, " ");
+          colorSet.add(cleanedColor);
+        }
       });
     });
 
@@ -35,7 +38,9 @@ async function exportProductAttributeValueFromFile() {
     // Add rows
     rows.forEach((row) => sheet.addRow(row));
 
-    await workbook.xlsx.writeFile("product_attribute_value.xlsx");
+    await workbook.xlsx.writeFile(
+      "../../data/xlsx/product_attribute_value.xlsx"
+    );
     console.log("✅ File created: product_attribute_value.xlsx");
   } catch (error) {
     console.error("❌ Error reading or processing products.json:", error);
