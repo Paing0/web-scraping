@@ -19,12 +19,10 @@ app.post("/", async (req, res) => {
       .json({ success: false, error: "Missing URL parameter" });
   }
 
-  // Set a timeout for the request
-  req.setTimeout(300000); // 5 minutes timeout
-  res.setTimeout(300000); // 5 minutes timeout
-
   try {
     const result = await handleScraping(url);
+
+    console.log(result.filePath);
 
     if (!result.success) {
       return res.status(500).json({ success: false, error: result.error });
@@ -59,19 +57,18 @@ const handleScraping = async (url) => {
         console.log("scrapeBags completed");
       } catch (err) {
         console.error("Error in scrapeBags:", err);
-        return res
-          .status(500)
-          .json({ success: false, error: "Failed to scrape bags" });
+        return { success: false, error: "Failed to scrape bags" };
       }
-      // filePath = path.resolve("src/charleskeith/xlsx/exported_products.xlsx");
-      filePath = path.resolve("src/data/bagsData.json");
     }
+    // filePath = path.resolve("src/charleskeith/xlsx/exported_products.xlsx");
+    filePath = path.resolve("src/data/bagsData.json");
 
     if (url.includes("shoes")) {
       await scrapeShoes(url);
       filePath = path.resolve("src/data/shoesData.json");
     }
 
+    console.log(filePath);
     if (!fs.existsSync(filePath)) {
       throw new Error("Scraping completed, but file not found.");
     }

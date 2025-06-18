@@ -40,11 +40,11 @@ const scrapeBags = async (url) => {
     throw new Error("Not all products are fetched. Please retry again.");
   }
 
-  fs.writeFileSync(
-    "src/data/status.json",
-    JSON.stringify(productData, null, 2),
-    "utf-8"
-  );
+  // fs.writeFileSync(
+  //   "src/data/status.json",
+  //   JSON.stringify(productData, null, 2),
+  //   "utf-8"
+  // );
   const filterOutOfStockProducts = (productData) => {
     return productData.filter((product) => product.status !== "Out of Stock");
   };
@@ -115,11 +115,11 @@ const scrapeBags = async (url) => {
 
   await browser.close();
 
-  fs.writeFileSync(
-    "src/data/productData.json",
-    JSON.stringify(mergedProducts, null, 2),
-    "utf-8"
-  );
+  // fs.writeFileSync(
+  //   "data/productData.json",
+  //   JSON.stringify(mergedProducts, null, 2),
+  //   "utf-8"
+  // );
 
   const extractProductDetails = async () => {
     try {
@@ -133,11 +133,11 @@ const scrapeBags = async (url) => {
         return firstEntry ? firstEntry.url : null; // null if empty
       });
 
-      fs.writeFileSync(
-        "src/data/urls.json",
-        JSON.stringify(urls, null, 2),
-        "utf-8"
-      );
+      // fs.writeFileSync(
+      //   "src/data/urls.json",
+      //   JSON.stringify(urls, null, 2),
+      //   "utf-8"
+      // );
       const responses = await Promise.all(urls.map((url) => axios.get(url)));
 
       const scrapedData = responses.map((response) => {
