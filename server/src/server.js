@@ -61,11 +61,11 @@ const handleScraping = async (url) => {
       }
     }
     // filePath = path.resolve("src/charleskeith/xlsx/exported_products.xlsx");
-    filePath = path.resolve("src/data/bagsData.json");
+    filePath = path.resolve("src/data/json/bagsData.json");
 
     if (url.includes("shoes")) {
       await scrapeShoes(url);
-      filePath = path.resolve("src/data/shoesData.json");
+      filePath = path.resolve("src/data/json/shoesData.json");
     }
 
     console.log(filePath);

@@ -11,51 +11,6 @@ export const autoScroll = async (page) => {
   }
 };
 
-// export const extractProductData = async (page) => {
-//   return await page.evaluate(() => {
-//     return Array.from(
-//       document.querySelectorAll(".js-product-tile-wrapper")
-//     ).map((element) => {
-//       const dataGa = element.getAttribute("data-ga");
-//       const statusElement = element.querySelector(".product_tile-stock_status");
-//       const badgeElement = element.querySelector(".badge");
-//       const priceElement = element.querySelector(".price-wrap .sales");
-
-//       return {
-//         ...JSON.parse(dataGa),
-//         status: statusElement ? statusElement.textContent.trim() : "Available",
-//         badge: badgeElement ? badgeElement.textContent.trim() : null,
-//         price: priceElement ? priceElement.textContent.trim() : null,
-//       };
-//     });
-//   });
-// };
-
-// const extractImages = async () => {
-//   return await page.evaluate(() => {
-//     return Array.from(document.querySelectorAll(".carousel-inner")).map(
-//       (carousel) => {
-//         const sources = Array.from(
-//           carousel.querySelectorAll(
-//             ".tile-image.carousel-item a picture source"
-//           )
-//         )
-//           .filter(
-//             (source) => source.getAttribute("media") === "(min-width: 1280px)"
-//           )
-//           .map((source) => source.getAttribute("srcset"));
-
-//         // Extract first, second, and last elements
-//         return [
-//           sources.length > 0 ? sources[0] : null,
-//           sources.length > 1 ? sources[1] : null,
-//           sources.length > 2 ? sources[sources.length - 1] : null,
-//         ];
-//       }
-//     );
-//   });
-// };
-
 export const extractProductData = async (page) => {
   return await page.evaluate(() => {
     const statuses = Array.from(

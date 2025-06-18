@@ -246,7 +246,7 @@ const scrapeShoes = async (url) => {
   }
 
   fs.writeFileSync(
-    "src/data/shoesData.json",
+    "src/data/json/shoesData.json",
     JSON.stringify(mergedProducts, null, 2),
     "utf-8"
   );

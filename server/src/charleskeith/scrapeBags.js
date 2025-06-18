@@ -40,11 +40,6 @@ const scrapeBags = async (url) => {
     throw new Error("Not all products are fetched. Please retry again.");
   }
 
-  // fs.writeFileSync(
-  //   "src/data/status.json",
-  //   JSON.stringify(productData, null, 2),
-  //   "utf-8"
-  // );
   const filterOutOfStockProducts = (productData) => {
     return productData.filter((product) => product.status !== "Out of Stock");
   };
@@ -79,26 +74,16 @@ const scrapeBags = async (url) => {
     };
 
     if (existingProduct) {
-      // if (!existingProduct.size.includes(size)) {
-      //   existingProduct.size.push(size);
-      // }
-
-      // if (!existingProduct.url) {
-      //   existingProduct.url = item.item_url;
-      // }
-
       if (
-        !existingProduct.colorAndPriceAndUrl.some(
+        !existingProduct.colorAndPriceAndUrlAndImageUrls.some(
           (e) =>
             e.color === entry.color &&
             e.price === entry.price &&
             e.url === entry.url
         )
       ) {
-        existingProduct.colorAndPriceAndUrl.push(entry);
+        existingProduct.colorAndPriceAndUrlAndImageUrls.push(entry);
       }
-
-      // existingProduct.imagesUrls.push(...imageUrls[index]);
     } else {
       mergedProducts.push({
         id: mergedProducts.length + 1,
@@ -106,8 +91,7 @@ const scrapeBags = async (url) => {
         itemIdWithColor: item.item_id,
         name: item.item_name,
         size: size,
-        colorAndPriceAndUrl: [entry],
-        // imagesUrls: item.images,
+        colorAndPriceAndUrlAndImageUrls: [entry],
         details: item.details,
       });
     }
@@ -115,29 +99,14 @@ const scrapeBags = async (url) => {
 
   await browser.close();
 
-  // fs.writeFileSync(
-  //   "data/productData.json",
-  //   JSON.stringify(mergedProducts, null, 2),
-  //   "utf-8"
-  // );
-
   const extractProductDetails = async () => {
     try {
-      // const urls = mergedProducts.flatMap(
-      //   (product) => product.colorAndPriceAndUrl.map((entry) => entry.url),
-      //   console.log(productData.colorAndPriceAndUrl)
-      // );
       const urls = mergedProducts.map((product) => {
-        // Get the first entry in colorAndPriceAndUrl array
-        const firstEntry = product.colorAndPriceAndUrl[0];
+        // Get the first entry in colorAndPriceAndUrlAndImageUrls array
+        const firstEntry = product.colorAndPriceAndUrlAndImageUrls[0];
         return firstEntry ? firstEntry.url : null; // null if empty
       });
 
-      // fs.writeFileSync(
-      //   "src/data/urls.json",
-      //   JSON.stringify(urls, null, 2),
-      //   "utf-8"
-      // );
       const responses = await Promise.all(urls.map((url) => axios.get(url)));
 
       const scrapedData = responses.map((response) => {
@@ -256,7 +225,7 @@ const scrapeBags = async (url) => {
   normalizeProductData(mergedProducts);
 
   fs.writeFileSync(
-    "src/data/bagsData.json",
+    "src/data/json/bagsData.json",
     JSON.stringify(mergedProducts, null, 2),
     "utf-8"
   );

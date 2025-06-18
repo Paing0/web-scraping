@@ -5,7 +5,7 @@
     "itemIdWithColor": "CK2-30671662_OAT_L",
     "name": "Calla Tote Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Oat",
         "price": "S$95.90",
@@ -50,7 +50,7 @@
     "itemIdWithColor": "CK2-10151504_BT.YEL_M",
     "name": "Beryl Bucket Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Butter_Yellow",
         "price": "S$99.90",
@@ -113,7 +113,7 @@
     "itemIdWithColor": "CK2-30151511_CREAM_M",
     "name": "Mini Beryl Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$95.90",
@@ -167,7 +167,7 @@
     "itemIdWithColor": "CK2-30151516_TAUPE_L",
     "name": "Beryl Tote Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Taupe",
         "price": "S$119.00",
@@ -212,7 +212,7 @@
     "itemIdWithColor": "CK2-30782647_BT.YEL_M",
     "name": "Mini Lyla Tubular Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Butter_Yellow",
         "price": "S$85.90",
@@ -285,7 +285,7 @@
     "itemIdWithColor": "CK2-30781483_ML.PLM_XL",
     "name": "Lyla Tubular Slouchy Tote Bag",
     "size": "XL",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Mulberry_Plum",
         "price": "S$99.90",
@@ -337,7 +337,7 @@
     "itemIdWithColor": "CK2-80151362-B_CR.CCO_S",
     "name": "Elspeth Croc-Effect Chain-Link Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream_Croco",
         "price": "S$75.90",
@@ -407,7 +407,7 @@
     "itemIdWithColor": "CK2-30271635_CREAM_S",
     "name": "Sammie Knotted-Handle Tote Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -454,7 +454,7 @@
     "itemIdWithColor": "CK2-60271630_CREAM_S",
     "name": "Sammie Knotted-Handle Two-Way Backpack",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$85.90",
@@ -493,7 +493,7 @@
     "itemIdWithColor": "CK2-30271574_BT.YEL_S",
     "name": "Sammie Knotted-Handle Elongated Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Butter_Yellow",
         "price": "S$79.90",
@@ -568,7 +568,7 @@
     "itemIdWithColor": "CK2-30271574-1_TP.CAV_S",
     "name": "Sammie Canvas Knotted-Handle Elongated Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Taupe_Canvas",
         "price": "S$79.90",
@@ -603,7 +603,7 @@
     "itemIdWithColor": "CK2-40160209_RU.BRW_L",
     "name": "Juno Perforated Hobo Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Russet_Brown",
         "price": "S$89.90",
@@ -643,7 +643,7 @@
     "itemIdWithColor": "CK2-30271421_CREAM_S",
     "name": "Rene Structured Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$75.90",
@@ -708,7 +708,7 @@
     "itemIdWithColor": "SL2-40681199_EG.CRM_M",
     "name": "Gabine Leather Belted Hobo Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Eggshell_Cream",
         "price": "S$159.00",
@@ -761,7 +761,7 @@
     "itemIdWithColor": "SL6-40271638_NS.SAT_XS",
     "name": "Satin Studded Knotted-Bow Mini Bag",
     "size": "XS",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir_Studded_Satin",
         "price": "S$99.90",
@@ -788,7 +788,7 @@
     "itemIdWithColor": "CK2-80671751_CREAM_M",
     "name": "Everleigh Crossbody Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$85.90",
@@ -837,7 +837,7 @@
     "itemIdWithColor": "CK2-40782622_CREAM_M",
     "name": "Bryna Belted Hobo Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$89.90",
@@ -891,7 +891,7 @@
     "itemIdWithColor": "CK2-20782621_CREAM_S",
     "name": "Bryna Belted Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$75.90",
@@ -945,7 +945,7 @@
     "itemIdWithColor": "CK2-60160240_CREAM_M",
     "name": "Bryna Backpack",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$89.90",
@@ -999,7 +999,7 @@
     "itemIdWithColor": "CK2-40782578_CREAM_M",
     "name": "Blume Braided Curved Hobo Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$89.90",
@@ -1051,7 +1051,7 @@
     "itemIdWithColor": "CK2-40782578-1_TP.CAV_M",
     "name": "Blume Canvas Braided Curved Hobo Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Taupe_Canvas",
         "price": "S$89.90",
@@ -1083,7 +1083,7 @@
     "itemIdWithColor": "CK2-20782576_CREAM_S",
     "name": "Blume Braided Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -1128,7 +1128,7 @@
     "itemIdWithColor": "CK2-20782576-1_TP.CAV_S",
     "name": "Blume Canvas Braided Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Taupe_Canvas",
         "price": "S$79.90",
@@ -1163,7 +1163,7 @@
     "itemIdWithColor": "CK2-10151320-B_MT.SBT_S",
     "name": "Ally Ruched Slouchy Knotted Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Mint_Sorbet",
         "price": "S$99.90",
@@ -1248,7 +1248,7 @@
     "itemIdWithColor": "CK17-YVMINBAGSET_MT.SBT_S",
     "name": "Ally Ruched Slouchy Knotted Bag & Fruit Charms Set",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Mint_Sorbet",
         "price": "S$309.00",
@@ -1277,7 +1277,7 @@
     "itemIdWithColor": "CK2-20151402_CHOCO_M",
     "name": "Cesia Metallic Accent Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chocolate",
         "price": "S$79.90",
@@ -1352,7 +1352,7 @@
     "itemIdWithColor": "CK2-20151402-1_CHOCO_M",
     "name": "Cesia Canvas Metallic Accent Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chocolate",
         "price": "S$79.90",
@@ -1387,7 +1387,7 @@
     "itemIdWithColor": "CK2-50270880-1_LTPINK_S",
     "name": "Aubrielle Croc-Effect Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Light_Pink",
         "price": "S$69.90",
@@ -1452,7 +1452,7 @@
     "itemIdWithColor": "CK2-50270880_CREAM_S",
     "name": "Aubrielle Metallic-Buckle Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -1497,7 +1497,7 @@
     "itemIdWithColor": "CK2-20160193_MR.WHT_M",
     "name": "Hazel Bow Elongated Trapeze Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Meringue_White",
         "price": "S$85.90",
@@ -1552,7 +1552,7 @@
     "itemIdWithColor": "CK2-30782357_TAUPE_XL",
     "name": "Sansa Tote Bag",
     "size": "XL",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Taupe",
         "price": "S$105.00",
@@ -1620,7 +1620,7 @@
     "itemIdWithColor": "CK2-80782534_CREAM_S",
     "name": "Arwen Quilted Top Handle Vanity Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -1674,7 +1674,7 @@
     "itemIdWithColor": "CK2-30271481_CREAM_S",
     "name": "Mini Kerry Tote Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -1739,7 +1739,7 @@
     "itemIdWithColor": "CK2-20151510_CREAM_S",
     "name": "Ivette Woven Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$99.90",
@@ -1804,7 +1804,7 @@
     "itemIdWithColor": "CK2-30701583_CHOCO_L",
     "name": "Ivette Woven Tote Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chocolate",
         "price": "S$129.00",
@@ -1849,7 +1849,7 @@
     "itemIdWithColor": "SL2-80782449_OAT_M",
     "name": "Gabine Leather Saddle Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Oat",
         "price": "S$169.00",
@@ -1913,7 +1913,7 @@
     "itemIdWithColor": "CK2-80782444_OAT_M",
     "name": "Charlot Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Oat",
         "price": "S$75.90",
@@ -1976,7 +1976,7 @@
     "itemIdWithColor": "CK2-80782444-1_NOIR_M",
     "name": "Charlot Patchwork Denim Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir",
         "price": "S$75.90",
@@ -2009,7 +2009,7 @@
     "itemIdWithColor": "CK2-80782074_CHOCO_S",
     "name": "Charlot Canvas Crossbody Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chocolate",
         "price": "S$75.90",
@@ -2042,7 +2042,7 @@
     "itemIdWithColor": "CK2-80701360_CREAM_S",
     "name": "Alva Quilted Chain-Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$75.90",
@@ -2115,7 +2115,7 @@
     "itemIdWithColor": "CK2-10782417_OAT_M",
     "name": "Sybill Geometric Bucket Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Oat",
         "price": "S$79.90",
@@ -2160,7 +2160,7 @@
     "itemIdWithColor": "CK2-30701583-1_LW.DNM_L",
     "name": "Ivette Denim Tote Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Light_Washed_Denim",
         "price": "S$99.90",
@@ -2195,7 +2195,7 @@
     "itemIdWithColor": "CK2-30271529_DS.SLV_S",
     "name": "Satin Crystal-Embellished Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Dusk_Silver",
         "price": "S$79.90",
@@ -2236,7 +2236,7 @@
     "itemIdWithColor": "CK2-20271604_CREAM_S",
     "name": "Lane Chain-Link Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -2301,7 +2301,7 @@
     "itemIdWithColor": "CK2-40271444_BURGUN_S",
     "name": "Agatha Chain-Accent Hobo Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Burgundy",
         "price": "S$75.90",
@@ -2346,7 +2346,7 @@
     "itemIdWithColor": "CK2-20160188_BEIGE_M",
     "name": "Agatha Chain-Accent Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Beige",
         "price": "S$75.90",
@@ -2398,7 +2398,7 @@
     "itemIdWithColor": "CK2-20160187_CREAM_M",
     "name": "Rachel Elongated Multi-Pocket Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$89.90",
@@ -2451,7 +2451,7 @@
     "itemIdWithColor": "CK2-20160191_CREAM_S",
     "name": "Rachel Elongated Front-Pocket Chain-Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -2515,7 +2515,7 @@
     "itemIdWithColor": "CK2-20782554_BT.YEL_S",
     "name": "Sigrid Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Butter_Yellow",
         "price": "S$69.90",
@@ -2580,7 +2580,7 @@
     "itemIdWithColor": "CK2-30671730-1_CHOCO_S",
     "name": "Enola Canvas Two-Tone Bowling Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chocolate",
         "price": "S$69.90",
@@ -2625,7 +2625,7 @@
     "itemIdWithColor": "CK2-30671730_CREAM_S",
     "name": "Enola Bowling Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -2670,7 +2670,7 @@
     "itemIdWithColor": "CK2-30782521-1_CHOCO_M",
     "name": "Enola Canvas Two-Tone Elongated-Handle Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chocolate",
         "price": "S$79.90",
@@ -2715,7 +2715,7 @@
     "itemIdWithColor": "CK2-30782521_CREAM_M",
     "name": "Enola Elongated-Handle Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -2757,7 +2757,7 @@
     "itemIdWithColor": "CK2-40270966-1_CREAM_L",
     "name": "Edna Tote Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$85.90",
@@ -2812,7 +2812,7 @@
     "itemIdWithColor": "CK2-80782515_CREAM_M",
     "name": "Kerry Chain-Handle Crossbody Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$89.90",
@@ -2868,7 +2868,7 @@
     "itemIdWithColor": "CK2-20782514_CREAM_L",
     "name": "Kerry Top Handle Satchel Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$109.00",
@@ -2924,7 +2924,7 @@
     "itemIdWithColor": "CK2-80782516_CREAM_S",
     "name": "Mini Kerry Chain-Handle Crossbody Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -2980,7 +2980,7 @@
     "itemIdWithColor": "CK2-20671747_BT.YEL_S",
     "name": "Arwen Diamond-Quilt Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Butter_Yellow",
         "price": "S$79.90",
@@ -3044,7 +3044,7 @@
     "itemIdWithColor": "CK2-50782376_BEIGE_S",
     "name": "Arwen Top Handle Vanity Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Beige",
         "price": "S$65.90",
@@ -3129,7 +3129,7 @@
     "itemIdWithColor": "CK2-20840579_CREAM_M",
     "name": "Everline Braided-Strap Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$75.90",
@@ -3184,7 +3184,7 @@
     "itemIdWithColor": "CK2-80701149_DK.BRW_S",
     "name": "Gabine Crossbody Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Dark_Brown",
         "price": "S$59.90",
@@ -3216,7 +3216,7 @@
     "itemIdWithColor": "CK2-80701096_BLACK_S",
     "name": "Gabine Crossbody Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$59.90",
@@ -3243,7 +3243,7 @@
     "itemIdWithColor": "CK2-50160152_IVORY_L",
     "name": "Mirabelle Structured Top Handle bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Ivory",
         "price": "S$99.90",
@@ -3288,7 +3288,7 @@
     "itemIdWithColor": "CK2-40671449_CREAM_L",
     "name": "Duo Double Chain Hobo Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$119.00",
@@ -3347,7 +3347,7 @@
     "itemIdWithColor": "CK2-60782390_CREAM_S",
     "name": "Duo Chain-Handle Two-Way Backpack",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$89.90",
@@ -3412,7 +3412,7 @@
     "itemIdWithColor": "CK2-60782390-1_DN.BLU_S",
     "name": "Duo Denim Chain-Handle Two-Way Backpack",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Denim_Blue",
         "price": "S$89.90",
@@ -3447,7 +3447,7 @@
     "itemIdWithColor": "CK2-10701506_LTPINK_M",
     "name": "Julia Quilted Two-Way Bucket Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Light_Pink",
         "price": "S$89.90",
@@ -3500,7 +3500,7 @@
     "itemIdWithColor": "CK2-20781907_MULTI_M",
     "name": "Nasrin Geometric Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Multi",
         "price": "S$79.90",
@@ -3556,7 +3556,7 @@
     "itemIdWithColor": "CK2-30781775_MULTI_XL",
     "name": "Shalia Canvas Tote Bag",
     "size": "XL",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Multi",
         "price": "S$99.90",
@@ -3599,7 +3599,7 @@
     "itemIdWithColor": "CK2-60681127_DK.BRW_L",
     "name": "Octavia Front Flap Structured Backpack",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Dark_Brown",
         "price": "S$99.90",
@@ -3644,7 +3644,7 @@
     "itemIdWithColor": "CK2-50671160_WHITE_L",
     "name": "Cameron Double Top Handle Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "White",
         "price": "S$109.00",
@@ -3682,7 +3682,7 @@
     "itemIdWithColor": "CK2-70160131_CREAM_S",
     "name": "Cressida Quilted Push-Lock Clutch",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -3736,7 +3736,7 @@
     "itemIdWithColor": "CK2-30271454_BEIGE_M",
     "name": "Kora Metallic-Accent Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Beige",
         "price": "S$99.90",
@@ -3778,7 +3778,7 @@
     "itemIdWithColor": "CK2-00151408_CREAM_XS",
     "name": "Mini Apfra Quilted Crossbody Bag",
     "size": "XS",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$65.90",
@@ -3841,7 +3841,7 @@
     "itemIdWithColor": "CK2-00701397_CREAM_XS",
     "name": "Mini Apfra Quilted Elongated Bag",
     "size": "XS",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$65.90",
@@ -3885,7 +3885,7 @@
     "itemIdWithColor": "CK2-30271398_NOIR_M",
     "name": "Sianna Bowling Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir",
         "price": "S$85.90",
@@ -3921,7 +3921,7 @@
     "itemIdWithColor": "CK2-30271398-1_BROWN_M",
     "name": "Sianna Textured Bowling Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Brown",
         "price": "S$85.90",
@@ -3957,7 +3957,7 @@
     "itemIdWithColor": "CK2-40151242-1_OAT_M",
     "name": "Carey Crescent Hobo Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Oat",
         "price": "S$69.90",
@@ -4010,7 +4010,7 @@
     "itemIdWithColor": "CK2-20671702_CREAM_S",
     "name": "Sloane Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$75.90",
@@ -4075,7 +4075,7 @@
     "itemIdWithColor": "CK2-80701349_CREAM_S",
     "name": "Brennan Chain Handle Crossbody Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -4108,7 +4108,7 @@
     "itemIdWithColor": "CK2-80271395_MULTI_M",
     "name": "Thora Multi-Pocket Crossbody Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Multi",
         "price": "S$89.90",
@@ -4152,7 +4152,7 @@
     "itemIdWithColor": "CK2-40671642_CHALK_L",
     "name": "Toni Knotted Crescent Hobo Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chalk",
         "price": "S$85.90",
@@ -4207,7 +4207,7 @@
     "itemIdWithColor": "CK2-40671642-1_DK.GRY_L",
     "name": "Toni Denim Knotted Crescent Hobo Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Dark_Grey",
         "price": "S$85.90",
@@ -4237,7 +4237,7 @@
     "itemIdWithColor": "CK2-50701570_SS.NUD_S",
     "name": "Satin Crystal-Buckle Belted Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Sunset_Nude",
         "price": "S$75.90",
@@ -4282,7 +4282,7 @@
     "itemIdWithColor": "CK2-80701566_NOIR_S",
     "name": "Satin Crystal-Buckle Belted Chain-Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir",
         "price": "S$69.90",
@@ -4313,7 +4313,7 @@
     "itemIdWithColor": "SL2-21200035-1_CP.NUD_S",
     "name": "Sequin Mesh & Leather Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Champagne_Nude",
         "price": "S$99.90",
@@ -4352,7 +4352,7 @@
     "itemIdWithColor": "CK2-20271573_CREAM_S",
     "name": "Simone Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$75.90",
@@ -4407,7 +4407,7 @@
     "itemIdWithColor": "CK2-20782582_TAUPE_M",
     "name": "Lyla Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Taupe",
         "price": "S$75.90",
@@ -4459,7 +4459,7 @@
     "itemIdWithColor": "CK2-20271647_BLACK_S",
     "name": "Addison Knotted-Rope Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$75.90",
@@ -4495,7 +4495,7 @@
     "itemIdWithColor": "CK2-20782617_BLACK_M",
     "name": "Addison Knotted-Rope Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$105.00",
@@ -4529,7 +4529,7 @@
     "itemIdWithColor": "CK2-20782617-1_TP.CAV_M",
     "name": "Addison Canvas Knotted-Rope Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Taupe_Canvas",
         "price": "S$105.00",
@@ -4563,7 +4563,7 @@
     "itemIdWithColor": "CK2-30671765_BLACK_S",
     "name": "Addison Knotted-Rope Reversible Tote Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$89.90",
@@ -4599,7 +4599,7 @@
     "itemIdWithColor": "CK2-30671765-1_TP.CAV_S",
     "name": "Addison Canvas Knotted-Rope Reversible Tote Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Taupe_Canvas",
         "price": "S$89.90",
@@ -4635,7 +4635,7 @@
     "itemIdWithColor": "SL2-40840617_BLACK_S",
     "name": "Leather Crescent Hobo Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$119.00",
@@ -4669,7 +4669,7 @@
     "itemIdWithColor": "SL2-40840617-1_NE.RAF_S",
     "name": "Leather & Raffia Crescent Hobo Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Neutral_Raffia",
         "price": "S$109.00",
@@ -4703,7 +4703,7 @@
     "itemIdWithColor": "SL2-50840607_BLACK_S",
     "name": "Leather Bowling Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$119.00",
@@ -4735,7 +4735,7 @@
     "itemIdWithColor": "SL2-50840607-1_NE.RAF_S",
     "name": "Leather & Raffia Bowling Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Neutral_Raffia",
         "price": "S$109.00",
@@ -4764,20 +4764,10 @@
   {
     "id": 98,
     "itemId": "CK2-20151535-1",
-    "itemIdWithColor": "CK2-20151535-1_CLEAR_S",
+    "itemIdWithColor": "CK2-20151535-1_BGM.PK_S",
     "name": "Norah See-Through Mesh Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
-      {
-        "color": "Clear",
-        "price": "S$69.90",
-        "url": "https://www.charleskeith.com/sg/CK2-20151535-1_CLEAR.html",
-        "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw7fd6161e/images/hi-res/2025-L3-CK2-20151535-1-H3-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw25d3b6e9/images/hi-res/2025-L3-CK2-20151535-1-H3-2.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw345285a1/images/hi-res/2025-L3-CK2-20151535-1-H3-3.jpg?sw=1152&sh=1536"
-        ]
-      },
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Bubble_Gum_Pink",
         "price": "S$69.90",
@@ -4786,6 +4776,16 @@
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw024d73a6/images/hi-res/2025-L3-CK2-20151535-1-O3-1.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwb9384e52/images/hi-res/2025-L3-CK2-20151535-1-O3-2.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwbdcca226/images/hi-res/2025-L3-CK2-20151535-1-O3-3.jpg?sw=1152&sh=1536"
+        ]
+      },
+      {
+        "color": "Clear",
+        "price": "S$69.90",
+        "url": "https://www.charleskeith.com/sg/CK2-20151535-1_CLEAR.html",
+        "imagesUrls": [
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw7fd6161e/images/hi-res/2025-L3-CK2-20151535-1-H3-1.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw25d3b6e9/images/hi-res/2025-L3-CK2-20151535-1-H3-2.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw345285a1/images/hi-res/2025-L3-CK2-20151535-1-H3-3.jpg?sw=1152&sh=1536"
         ]
       }
     ],
@@ -4813,7 +4813,7 @@
     "itemIdWithColor": "CK2-20782614_CREAM_S",
     "name": "Shalia Chain-Strap Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$85.90",
@@ -4867,7 +4867,7 @@
     "itemIdWithColor": "CK2-20782614-1_NT.RAF_S",
     "name": "Shalia Raffia Chain-Strap Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Natural_Raffia",
         "price": "S$95.90",
@@ -4901,7 +4901,7 @@
     "itemIdWithColor": "CK2-30151534-1_BGM.PK_M",
     "name": "Norah See-Through Mesh Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Bubble_Gum_Pink",
         "price": "S$85.90",
@@ -4947,7 +4947,7 @@
     "itemIdWithColor": "CK2-30671779_CREAM_S",
     "name": "Alva Quilted Braided-Strap Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -5000,7 +5000,7 @@
     "itemIdWithColor": "CK2-30701582-1_NT.RAF_XL",
     "name": "Shalia Raffia Tote Bag",
     "size": "XL",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Natural_Raffia",
         "price": "S$139.00",
@@ -5027,18 +5027,18 @@
   {
     "id": 104,
     "itemId": "CK2-30782551-1",
-    "itemIdWithColor": "CK2-30782551-1_GV.PK_M",
+    "itemIdWithColor": "CK2-30782551-1_NT.RAF_M",
     "name": "Shalia Raffia Basket Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
-        "color": "Guava_Pink",
+        "color": "Natural_Raffia",
         "price": "S$119.00",
-        "url": "https://www.charleskeith.com/sg/CK2-30782551-1_GV.PK.html",
+        "url": "https://www.charleskeith.com/sg/CK2-30782551-1_NT.RAF.html",
         "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw56d46570/images/hi-res/2025-L3-CK2-30782551-1-M8-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw3774755a/images/hi-res/2025-L3-CK2-30782551-1-M8-2.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw1fc1c84b/images/hi-res/2025-L3-CK2-30782551-1-M8-3.jpg?sw=1152&sh=1536"
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw8cea75aa/images/hi-res/2025-L3-CK2-30782551-1-P7-1.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwcab8e755/images/hi-res/2025-L3-CK2-30782551-1-P7-2.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw3802eed2/images/hi-res/2025-L3-CK2-30782551-1-P7-3.jpg?sw=1152&sh=1536"
         ]
       },
       {
@@ -5052,13 +5052,13 @@
         ]
       },
       {
-        "color": "Natural_Raffia",
+        "color": "Guava_Pink",
         "price": "S$119.00",
-        "url": "https://www.charleskeith.com/sg/CK2-30782551-1_NT.RAF.html",
+        "url": "https://www.charleskeith.com/sg/CK2-30782551-1_GV.PK.html",
         "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw8cea75aa/images/hi-res/2025-L3-CK2-30782551-1-P7-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwcab8e755/images/hi-res/2025-L3-CK2-30782551-1-P7-2.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw3802eed2/images/hi-res/2025-L3-CK2-30782551-1-P7-3.jpg?sw=1152&sh=1536"
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw56d46570/images/hi-res/2025-L3-CK2-30782551-1-M8-1.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw3774755a/images/hi-res/2025-L3-CK2-30782551-1-M8-2.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw1fc1c84b/images/hi-res/2025-L3-CK2-30782551-1-M8-3.jpg?sw=1152&sh=1536"
         ]
       }
     ],
@@ -5085,7 +5085,7 @@
     "itemIdWithColor": "CK2-50701578_CREAM_S",
     "name": "Alva Quilted Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$85.90",
@@ -5140,7 +5140,7 @@
     "itemIdWithColor": "CK2-80782644-1_NT.RAF_S",
     "name": "Shalia Raffia Chain-Strap Crossbody Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Natural_Raffia",
         "price": "S$95.90",
@@ -5173,7 +5173,7 @@
     "itemIdWithColor": "CK2-30671768_CREAM_S",
     "name": "Everleigh Bowling Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$89.90",
@@ -5238,7 +5238,7 @@
     "itemIdWithColor": "CK2-30671768-2_LTPINK_S",
     "name": "Everleigh Checkered Bowling Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Light_Pink",
         "price": "S$99.90",
@@ -5272,7 +5272,7 @@
     "itemIdWithColor": "CK2-50270880-3_LTPINK_S",
     "name": "Aubrielle Checkered Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Light_Pink",
         "price": "S$79.90",
@@ -5306,7 +5306,7 @@
     "itemIdWithColor": "CK11-10782618_BEIGE_R",
     "name": "Girls' Ida Knitted Bucket Bag",
     "size": "R",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Beige",
         "price": "S$55.90",
@@ -5344,7 +5344,7 @@
     "itemIdWithColor": "CK11-60782356_GH.RED_R",
     "name": "Girls' Ida Knitted Gingham Backpack",
     "size": "R",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Gingham_Red",
         "price": "S$65.90",
@@ -5383,7 +5383,7 @@
     "itemIdWithColor": "CK2-20782579_SS.BLU_S",
     "name": "Ida Checkered Knitted Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Sea_Salt_Blue",
         "price": "S$75.90",
@@ -5418,7 +5418,7 @@
     "itemIdWithColor": "CK2-30782111_BEIGE_S",
     "name": "Ida Knotted Handle Knitted Tote Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Beige",
         "price": "S$75.90",
@@ -5463,7 +5463,7 @@
     "itemIdWithColor": "CK2-30151503_BLACK_M",
     "name": "Mini Shalia Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$85.90",
@@ -5505,7 +5505,7 @@
     "itemIdWithColor": "CK2-30781775-2_BG.CAV_XL",
     "name": "Shalia Canvas Tote Bag",
     "size": "XL",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Beige_Canvas",
         "price": "S$99.90",
@@ -5535,7 +5535,7 @@
     "itemIdWithColor": "CK2-30782457_CHOCO_XL",
     "name": "Sianna Crinkle-Effect Slouchy Tote Bag",
     "size": "XL",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chocolate",
         "price": "S$89.90",
@@ -5580,7 +5580,7 @@
     "itemIdWithColor": "CK2-30782457-1_TP.CAV_XL",
     "name": "Sianna Canvas Contrast-Trim Tote Bag",
     "size": "XL",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Taupe_Canvas",
         "price": "S$89.90",
@@ -5615,7 +5615,7 @@
     "itemIdWithColor": "CK2-50270880-2_TP.CAV_S",
     "name": "Aubrielle Canvas Two-Tone Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Taupe_Canvas",
         "price": "S$69.90",
@@ -5650,7 +5650,7 @@
     "itemIdWithColor": "SL2-30681200_WHITE_S",
     "name": "Leather Half-Moon Bowling Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "White",
         "price": "S$99.90",
@@ -5688,7 +5688,7 @@
     "itemIdWithColor": "CK2-20782594_CREAM_S",
     "name": "Lorelai Ruched Knotted-Strap Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -5700,16 +5700,6 @@
         ]
       },
       {
-        "color": "Russet_Brown",
-        "price": "S$69.90",
-        "url": "https://www.charleskeith.com/sg/CK2-20782594_RU.BRW.html",
-        "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw0527f45f/images/hi-res/2025-L3-CK2-20782594-N8-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw21f5a54b/images/hi-res/2025-L3-CK2-20782594-N8-2.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw35a436ec/images/hi-res/2025-L3-CK2-20782594-N8-3.jpg?sw=1152&sh=1536"
-        ]
-      },
-      {
         "color": "Noir",
         "price": "S$69.90",
         "url": "https://www.charleskeith.com/sg/CK2-20782594_NOIR.html",
@@ -5717,6 +5707,16 @@
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw06bb0b63/images/hi-res/2025-L3-CK2-20782594-J8-1.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw9994c6fc/images/hi-res/2025-L3-CK2-20782594-J8-2.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw2245d376/images/hi-res/2025-L3-CK2-20782594-J8-3.jpg?sw=1152&sh=1536"
+        ]
+      },
+      {
+        "color": "Russet_Brown",
+        "price": "S$69.90",
+        "url": "https://www.charleskeith.com/sg/CK2-20782594_RU.BRW.html",
+        "imagesUrls": [
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw0527f45f/images/hi-res/2025-L3-CK2-20782594-N8-1.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw21f5a54b/images/hi-res/2025-L3-CK2-20782594-N8-2.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw35a436ec/images/hi-res/2025-L3-CK2-20782594-N8-3.jpg?sw=1152&sh=1536"
         ]
       }
     ],
@@ -5741,7 +5741,7 @@
     "itemIdWithColor": "CK2-30671761_DK.BRW_L",
     "name": "Lennie Top Handle Satchel Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Dark_Brown",
         "price": "S$95.90",
@@ -5787,7 +5787,7 @@
     "itemIdWithColor": "CK2-30782347_CREAM_S",
     "name": "Matina Crinkle-Effect Elongated Tote Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$65.90",
@@ -5799,16 +5799,6 @@
         ]
       },
       {
-        "color": "Prism_Noir",
-        "price": "S$65.90",
-        "url": "https://www.charleskeith.com/sg/CK2-30782347_PR.NR.html",
-        "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw3dd3e62a/images/hi-res/2024-L3-CK2-30782347-O6-1.jpg?sw=1152&sh=1536",
-          "//www.charleskeith.com/on/demandware.static/-/Sites-ck-products/default/dw032b3863/images/hi-res/2024-L3-CK2-30782347-O6-2.JPG",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw90ff016e/images/hi-res/2024-L3-CK2-30782347-O6-3.jpg?sw=1152&sh=1536"
-        ]
-      },
-      {
         "color": "Prism_Silver",
         "price": "S$65.90",
         "url": "https://www.charleskeith.com/sg/CK2-30782347_PR.SLV.html",
@@ -5816,6 +5806,16 @@
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw48b1c6ac/images/hi-res/2024-L3-CK2-30782347-O5-1.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw6fbc00e7/images/hi-res/2024-L3-CK2-30782347-O5-2.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwda247c30/images/hi-res/2024-L3-CK2-30782347-O5-3.jpg?sw=1152&sh=1536"
+        ]
+      },
+      {
+        "color": "Prism_Noir",
+        "price": "S$65.90",
+        "url": "https://www.charleskeith.com/sg/CK2-30782347_PR.NR.html",
+        "imagesUrls": [
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw3dd3e62a/images/hi-res/2024-L3-CK2-30782347-O6-1.jpg?sw=1152&sh=1536",
+          "//www.charleskeith.com/on/demandware.static/-/Sites-ck-products/default/dw032b3863/images/hi-res/2024-L3-CK2-30782347-O6-2.JPG",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw90ff016e/images/hi-res/2024-L3-CK2-30782347-O6-3.jpg?sw=1152&sh=1536"
         ]
       },
       {
@@ -5853,7 +5853,7 @@
     "itemIdWithColor": "CK2-30782575_PR.NR_L",
     "name": "Large Matina Patent Crinkle-Effect Elongated Tote Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Prism_Noir",
         "price": "S$79.90",
@@ -5889,7 +5889,7 @@
     "itemIdWithColor": "CK2-40782595_RU.BRW_M",
     "name": "Lorelai Ruched Knotted-Strap Hobo Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Russet_Brown",
         "price": "S$79.90",
@@ -5932,7 +5932,7 @@
     "itemIdWithColor": "CK2-50671771_CREAM_S",
     "name": "Lennie Chain-Strap Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -5978,7 +5978,7 @@
     "itemIdWithColor": "CK6-30681192_CREAM_XS",
     "name": "Lennie Chain-Handle Wallet",
     "size": "XS",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$59.90",
@@ -6022,7 +6022,7 @@
     "itemIdWithColor": "CK2-40782472_CREAM_S",
     "name": "Atwood Chain-Embellished Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$75.90",
@@ -6064,16 +6064,6 @@
         ]
       },
       {
-        "color": "Noir",
-        "price": "S$75.90",
-        "url": "https://www.charleskeith.com/sg/CK2-40782472_NOIR.html",
-        "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw40106d3b/images/hi-res/2024-L7-CK2-40782472-J8-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwb56d9b44/images/hi-res/2024-L7-CK2-40782472-J8-2.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw224f917e/images/hi-res/2024-L7-CK2-40782472-J8-3.jpg?sw=1152&sh=1536"
-        ]
-      },
-      {
         "color": "Sea_Salt_Blue",
         "price": "S$75.90",
         "url": "https://www.charleskeith.com/sg/CK2-40782472_SS.BLU.html",
@@ -6081,6 +6071,16 @@
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw63f211eb/images/hi-res/2025-L3-CK2-40782472-O2-1.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwdae2abb3/images/hi-res/2025-L3-CK2-40782472-O2-2.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw6e899049/images/hi-res/2025-L3-CK2-40782472-O2-3.jpg?sw=1152&sh=1536"
+        ]
+      },
+      {
+        "color": "Noir",
+        "price": "S$75.90",
+        "url": "https://www.charleskeith.com/sg/CK2-40782472_NOIR.html",
+        "imagesUrls": [
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw40106d3b/images/hi-res/2024-L7-CK2-40782472-J8-1.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwb56d9b44/images/hi-res/2024-L7-CK2-40782472-J8-2.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw224f917e/images/hi-res/2024-L7-CK2-40782472-J8-3.jpg?sw=1152&sh=1536"
         ]
       }
     ],
@@ -6107,7 +6107,7 @@
     "itemIdWithColor": "CK2-50782623_CREAM_S",
     "name": "Sammie Knotted-Handle Front-Flap Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -6162,7 +6162,7 @@
     "itemIdWithColor": "CK2-50782645_CREAM_S",
     "name": "Sammie Knotted-Handle Boxy Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -6217,7 +6217,7 @@
     "itemIdWithColor": "CK2-10840319-A_COGNAC_M",
     "name": "Checkered Drawstring Bucket Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cognac",
         "price": "S$79.90",
@@ -6252,7 +6252,7 @@
     "itemIdWithColor": "CK2-20271507_CHOCO_M",
     "name": "Ivette Woven Front Flap Crossbody Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chocolate",
         "price": "S$99.90",
@@ -6296,7 +6296,7 @@
     "itemIdWithColor": "CK2-20271571_CREAM_M",
     "name": "Ivette Woven Elongated Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -6360,7 +6360,7 @@
     "itemIdWithColor": "CK2-31220029-A_COGNAC_M",
     "name": "Mini Shalia Checkered Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cognac",
         "price": "S$85.90",
@@ -6395,7 +6395,7 @@
     "itemIdWithColor": "SL2-30681196_CHALK_M",
     "name": "Leather Ring-Handle Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chalk",
         "price": "S$169.00",
@@ -6449,7 +6449,7 @@
     "itemIdWithColor": "SL2-30782570_WHITE_S",
     "name": "Satin Boxy Tote Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "White",
         "price": "S$99.90",
@@ -6490,7 +6490,7 @@
     "itemIdWithColor": "CK2-20271488-2_TA.STW_S",
     "name": "Sabine Tartan Knotted-Strap Curved Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Tartan_Straw",
         "price": "S$89.90",
@@ -6522,7 +6522,7 @@
     "itemIdWithColor": "CK2-80782534-2_TA.STW_S",
     "name": "Arwen Tartan Top Handle Vanity Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Tartan_Straw",
         "price": "S$89.90",
@@ -6555,7 +6555,7 @@
     "itemIdWithColor": "CK2-10671729_NOIR_L",
     "name": "Enola Elongated Bucket Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir",
         "price": "S$89.90",
@@ -6586,20 +6586,10 @@
   {
     "id": 139,
     "itemId": "CK2-20271532",
-    "itemIdWithColor": "CK2-20271532_SY.BLU_S",
-    "name": "Satin Crystal-Embellished Chain-Handle Two-Way Bag",
+    "itemIdWithColor": "CK2-20271532_DS.SLV_S",
+    "name": "Metallic Crystal-Embellished Chain-Handle Two-Way Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
-      {
-        "color": "Sky_Blue",
-        "price": "S$79.90",
-        "url": "https://www.charleskeith.com/sg/CK2-20271532_SY.BLU.html",
-        "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw8a351e8d/images/hi-res/2025-L2-CK2-20271532-N4-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwf8b6469d/images/hi-res/2025-L2-CK2-20271532-N4-2.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwd653cb1a/images/hi-res/2025-L2-CK2-20271532-N4-3.jpg?sw=1152&sh=1536"
-        ]
-      },
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Dusk_Silver",
         "price": "S$79.90",
@@ -6609,10 +6599,20 @@
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw27bda649/images/hi-res/2025-L2-CK2-20271532-M5-2.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwa2af4f80/images/hi-res/2025-L2-CK2-20271532-M5-3.jpg?sw=1152&sh=1536"
         ]
+      },
+      {
+        "color": "Sky_Blue",
+        "price": "S$79.90",
+        "url": "https://www.charleskeith.com/sg/CK2-20271532_SY.BLU.html",
+        "imagesUrls": [
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw8a351e8d/images/hi-res/2025-L2-CK2-20271532-N4-1.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwf8b6469d/images/hi-res/2025-L2-CK2-20271532-N4-2.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwd653cb1a/images/hi-res/2025-L2-CK2-20271532-N4-3.jpg?sw=1152&sh=1536"
+        ]
       }
     ],
     "details": {
-      "Material": "Satin",
+      "Material": "Calf PU",
       "Number of bag strap": "1",
       "Inner compartment": "1 Inner Fold(s)\n1 Zip Compartment(s)",
       "Handle drop length": "27.5 cm",
@@ -6634,7 +6634,7 @@
     "itemIdWithColor": "CK2-80782509-1_SILVER_M",
     "name": "Mini Errya Nylon Quilted Puffy Crossbody Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Silver",
         "price": "S$69.90",
@@ -6680,7 +6680,7 @@
     "itemIdWithColor": "CK2-00701557-1_BLA.PK_XS",
     "name": "Satin Sequinned Chain-Handle Mini Bag",
     "size": "XS",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Ballerina_Pink",
         "price": "S$69.90",
@@ -6709,20 +6709,10 @@
   {
     "id": 142,
     "itemId": "CK2-20151489",
-    "itemIdWithColor": "CK2-20151489_FR.WHT_L",
-    "name": "Textured Elongated Shoulder Bag",
+    "itemIdWithColor": "CK2-20151489_JT.BLK_L",
+    "name": "Mesh Elongated Shoulder Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
-      {
-        "color": "Frosted_White",
-        "price": "S$99.90",
-        "url": "https://www.charleskeith.com/sg/CK2-20151489_FR.WHT.html",
-        "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw1ea7f682/images/hi-res/2025-L2-CK2-20151489-M7-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwb24912be/images/hi-res/2025-L2-CK2-20151489-M7-2.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw5cefa9f5/images/hi-res/2025-L2-CK2-20151489-M7-3.jpg?sw=1152&sh=1536"
-        ]
-      },
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Jet_Black",
         "price": "S$99.90",
@@ -6732,10 +6722,20 @@
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw2d21b3e7/images/hi-res/2025-L2-CK2-20151489-J9-3.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw0303e80f/images/hi-res/2025-L2-CK2-20151489-J9-4.jpg?sw=1152&sh=1536"
         ]
+      },
+      {
+        "color": "Frosted_White",
+        "price": "S$99.90",
+        "url": "https://www.charleskeith.com/sg/CK2-20151489_FR.WHT.html",
+        "imagesUrls": [
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw1ea7f682/images/hi-res/2025-L2-CK2-20151489-M7-1.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwb24912be/images/hi-res/2025-L2-CK2-20151489-M7-2.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw5cefa9f5/images/hi-res/2025-L2-CK2-20151489-M7-3.jpg?sw=1152&sh=1536"
+        ]
       }
     ],
     "details": {
-      "Material": "Wrinkled Fabric",
+      "Material": "Mesh",
       "Number of bag strap": "1",
       "Inner compartment": "1 Pouch(es)",
       "Handle drop length": "27 cm",
@@ -6757,7 +6757,7 @@
     "itemIdWithColor": "CK2-20271507-1_LW.DNM_M",
     "name": "Ivette Denim Front Flap Crossbody Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Light_Washed_Denim",
         "price": "S$89.90",
@@ -6791,7 +6791,7 @@
     "itemIdWithColor": "CK2-20271538_NOIR_M",
     "name": "Satin Bow Elongated Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir",
         "price": "S$85.90",
@@ -6820,7 +6820,7 @@
     "itemIdWithColor": "CK2-20671718-1_LW.DNM_M",
     "name": "Fawn Denim Panelled Chain-Handle Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Light_Washed_Denim",
         "price": "S$99.90",
@@ -6855,7 +6855,7 @@
     "itemIdWithColor": "CK2-40151467_CREAM_L",
     "name": "Sianna Slouchy Hobo Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$89.90",
@@ -6900,7 +6900,7 @@
     "itemIdWithColor": "CK2-40151467-1_LW.DNM_L",
     "name": "Sianna Denim Slouchy Hobo Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Light_Washed_Denim",
         "price": "S$89.90",
@@ -6935,7 +6935,7 @@
     "itemIdWithColor": "CK2-40151490_JT.BLK_XL",
     "name": "Mesh Crescent Hobo Bag",
     "size": "XL",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Jet_Black",
         "price": "S$99.90",
@@ -6970,7 +6970,7 @@
     "itemIdWithColor": "CK2-10151393-2_SLV.BD_L",
     "name": "Neva Brushed Denim Two-Way Bucket Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Silver_Brushed_Denim",
         "price": "S$85.90",
@@ -7004,7 +7004,7 @@
     "itemIdWithColor": "CK2-10782545-1_SLV.BD_M",
     "name": "Bryna Brushed Denim Belted Bucket Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Silver_Brushed_Denim",
         "price": "S$85.90",
@@ -7039,7 +7039,7 @@
     "itemIdWithColor": "CK2-30160200-1_NOIR_L",
     "name": "Liv Croc-Effect Tote Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir",
         "price": "S$105.00",
@@ -7068,20 +7068,10 @@
   {
     "id": 152,
     "itemId": "CK2-40782526-1",
-    "itemIdWithColor": "CK2-40782526-1_LW.DNM_M",
+    "itemIdWithColor": "CK2-40782526-1_SLV.BD_M",
     "name": "Bryna Denim Curved Hobo Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
-      {
-        "color": "Light_Washed_Denim",
-        "price": "S$69.90",
-        "url": "https://www.charleskeith.com/sg/CK2-40782526-1_LW.DNM.html",
-        "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw23b932be/images/hi-res/2025-L2-CK2-40782526-1-M9-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwfab9ce5d/images/hi-res/2025-L2-CK2-40782526-1-M9-2.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwcf9f930a/images/hi-res/2025-L2-CK2-40782526-1-M9-3.jpg?sw=1152&sh=1536"
-        ]
-      },
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Silver_Brushed_Denim",
         "price": "S$69.90",
@@ -7090,6 +7080,16 @@
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw9e73fbfe/images/hi-res/2025-L2-CK2-40782526-1-L8-1.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwd56c32d3/images/hi-res/2025-L2-CK2-40782526-1-L8-2.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw10e7094c/images/hi-res/2025-L2-CK2-40782526-1-L8-3.jpg?sw=1152&sh=1536"
+        ]
+      },
+      {
+        "color": "Light_Washed_Denim",
+        "price": "S$69.90",
+        "url": "https://www.charleskeith.com/sg/CK2-40782526-1_LW.DNM.html",
+        "imagesUrls": [
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw23b932be/images/hi-res/2025-L2-CK2-40782526-1-M9-1.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwfab9ce5d/images/hi-res/2025-L2-CK2-40782526-1-M9-2.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwcf9f930a/images/hi-res/2025-L2-CK2-40782526-1-M9-3.jpg?sw=1152&sh=1536"
         ]
       }
     ],
@@ -7114,7 +7114,7 @@
     "itemIdWithColor": "CK2-10782545_CREAM_M",
     "name": "Bryna Belted Bucket Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$85.90",
@@ -7169,7 +7169,7 @@
     "itemIdWithColor": "CK2-20782535-1_CREAM_S",
     "name": "Nylon Chevron Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -7191,16 +7191,6 @@
         ]
       },
       {
-        "color": "Jet_Black",
-        "price": "S$69.90",
-        "url": "https://www.charleskeith.com/sg/CK2-20782535-1_JT.BLK.html",
-        "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw1e6f2906/images/hi-res/2025-L2-CK2-20782535-1-J9-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwaa111260/images/hi-res/2025-L2-CK2-20782535-1-J9-2.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwede57983/images/hi-res/2025-L2-CK2-20782535-1-J9-3.jpg?sw=1152&sh=1536"
-        ]
-      },
-      {
         "color": "Guava_Pink",
         "price": "S$69.90",
         "url": "https://www.charleskeith.com/sg/CK2-20782535-1_GV.PK.html",
@@ -7208,6 +7198,16 @@
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw90dc8890/images/hi-res/2025-L2-CK2-20782535-1-M8-1.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw3f43a535/images/hi-res/2025-L2-CK2-20782535-1-M8-2.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw5e4cafff/images/hi-res/2025-L2-CK2-20782535-1-M8-3.jpg?sw=1152&sh=1536"
+        ]
+      },
+      {
+        "color": "Jet_Black",
+        "price": "S$69.90",
+        "url": "https://www.charleskeith.com/sg/CK2-20782535-1_JT.BLK.html",
+        "imagesUrls": [
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw1e6f2906/images/hi-res/2025-L2-CK2-20782535-1-J9-1.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwaa111260/images/hi-res/2025-L2-CK2-20782535-1-J9-2.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwede57983/images/hi-res/2025-L2-CK2-20782535-1-J9-3.jpg?sw=1152&sh=1536"
         ]
       }
     ],
@@ -7232,7 +7232,7 @@
     "itemIdWithColor": "CK2-30782536-1_CREAM_XL",
     "name": "Nylon Chevron Tote Bag",
     "size": "XL",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$109.00",
@@ -7268,7 +7268,7 @@
     "itemIdWithColor": "CK2-30782552-1_CREAM_M",
     "name": "Nylon Chevron Boxy Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$75.90",
@@ -7330,21 +7330,46 @@
   },
   {
     "id": 157,
-    "itemId": "CK2-40782526",
-    "itemIdWithColor": "CK2-40782526_CREAM_M",
-    "name": "Bryna Curved Hobo Bag",
+    "itemId": "CK2-40151496",
+    "itemIdWithColor": "CK2-40151496_BB.PK_M",
+    "name": "Satin Bow Ruched-Handle Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
-        "color": "Cream",
-        "price": "S$69.90",
-        "url": "https://www.charleskeith.com/sg/CK2-40782526_CREAM.html",
+        "color": "Baby_Pink",
+        "price": "S$85.90",
+        "url": "https://www.charleskeith.com/sg/CK2-40151496_BB.PK.html",
         "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwed89bab2/images/hi-res/2025-L2-CK2-40782526-09-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw95c35ca2/images/hi-res/2025-L2-CK2-40782526-09-2.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw9e7890ad/images/hi-res/2025-L2-CK2-40782526-09-3.jpg?sw=1152&sh=1536"
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw5964e2bd/images/hi-res/2025-L2-CK2-40151496-L9-1.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw053364f6/images/hi-res/2025-L2-CK2-40151496-L9-2.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwce0a3f32/images/hi-res/2025-L2-CK2-40151496-L9-3.jpg?sw=1152&sh=1536"
         ]
-      },
+      }
+    ],
+    "details": {
+      "Material": "Satin",
+      "Number of bag strap": "2",
+      "Inner compartment": "1 Zip Compartment(s)",
+      "Handle drop length": "15 cm",
+      "Detachable strap": "Detachable",
+      "Adjustable strap": "Adjustable",
+      "Type of closure": "Magnetic",
+      "Strap drop length": "37-61 cm",
+      "Strap length": "71-110 cm",
+      "Weight": "255 g",
+      "Width": "16.5-28 cm",
+      "Depth": "12 cm",
+      "Height": "15 cm",
+      "handle": "Handle drop length: 15 cm"
+    }
+  },
+  {
+    "id": 158,
+    "itemId": "CK2-40782526",
+    "itemIdWithColor": "CK2-40782526_SILVER_M",
+    "name": "Bryna Metallic Curved Hobo Bag",
+    "size": "M",
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Silver",
         "price": "S$69.90",
@@ -7382,12 +7407,12 @@
     }
   },
   {
-    "id": 158,
+    "id": 159,
     "itemId": "CK2-50271476",
     "itemIdWithColor": "CK2-50271476_CREAM_S",
     "name": "Andromeda Chunky-Chain Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -7427,12 +7452,12 @@
     }
   },
   {
-    "id": 159,
+    "id": 160,
     "itemId": "CK2-80271493",
     "itemIdWithColor": "CK2-80271493_CREAM_L",
     "name": "Bryna Panelled Grommet-Strap Crossbody Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$95.90",
@@ -7470,12 +7495,12 @@
     }
   },
   {
-    "id": 160,
+    "id": 161,
     "itemId": "CK2-40782543",
     "itemIdWithColor": "CK2-40782543_CREAM_L",
     "name": "Sigrid Hobo Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$89.90",
@@ -7487,16 +7512,6 @@
         ]
       },
       {
-        "color": "Noir",
-        "price": "S$89.90",
-        "url": "https://www.charleskeith.com/sg/CK2-40782543_NOIR.html",
-        "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw810b6156/images/hi-res/2025-L2-CK2-40782543-J8-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw9e5cd3f2/images/hi-res/2025-L2-CK2-40782543-J8-2.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw0ecc074b/images/hi-res/2025-L2-CK2-40782543-J8-3.jpg?sw=1152&sh=1536"
-        ]
-      },
-      {
         "color": "Mulberry_Plum",
         "price": "S$89.90",
         "url": "https://www.charleskeith.com/sg/CK2-40782543_ML.PLM.html",
@@ -7504,6 +7519,16 @@
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw9208e14e/images/hi-res/2025-L2-CK2-40782543-N2-1.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwe9fa717f/images/hi-res/2025-L2-CK2-40782543-N2-2.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw29a3cef7/images/hi-res/2025-L2-CK2-40782543-N2-3.jpg?sw=1152&sh=1536"
+        ]
+      },
+      {
+        "color": "Noir",
+        "price": "S$89.90",
+        "url": "https://www.charleskeith.com/sg/CK2-40782543_NOIR.html",
+        "imagesUrls": [
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw810b6156/images/hi-res/2025-L2-CK2-40782543-J8-1.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw9e5cd3f2/images/hi-res/2025-L2-CK2-40782543-J8-2.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw0ecc074b/images/hi-res/2025-L2-CK2-40782543-J8-3.jpg?sw=1152&sh=1536"
         ]
       }
     ],
@@ -7518,12 +7543,12 @@
     }
   },
   {
-    "id": 161,
+    "id": 162,
     "itemId": "CK2-00770664",
     "itemIdWithColor": "CK2-00770664_CREAM_XXS",
     "name": "Arwen Quilted Mini Bag",
     "size": "XXS",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$49.90",
@@ -7561,12 +7586,12 @@
     }
   },
   {
-    "id": 162,
+    "id": 163,
     "itemId": "CK2-20151448",
     "itemIdWithColor": "CK2-20151448_CREAM_L",
     "name": "Neva Panelled Chain-Strap Tote Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$89.90",
@@ -7606,12 +7631,12 @@
     }
   },
   {
-    "id": 163,
+    "id": 164,
     "itemId": "CK2-20271488",
     "itemIdWithColor": "CK2-20271488_CREAM_S",
     "name": "Sabine Knotted-Strap Curved Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -7651,12 +7676,12 @@
     }
   },
   {
-    "id": 164,
+    "id": 165,
     "itemId": "CK2-20271488-1",
     "itemIdWithColor": "CK2-20271488-1_CHOCO_S",
     "name": "Sabine Canvas Knotted-Strap Curved Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chocolate",
         "price": "S$69.90",
@@ -7686,12 +7711,12 @@
     }
   },
   {
-    "id": 165,
+    "id": 166,
     "itemId": "CK2-30271483",
     "itemIdWithColor": "CK2-30271483_CREAM_S",
     "name": "Sabine Knotted-Handle Trapeze Tote Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$75.90",
@@ -7721,12 +7746,12 @@
     }
   },
   {
-    "id": 166,
+    "id": 167,
     "itemId": "CK2-80701538",
     "itemIdWithColor": "CK2-80701538_SILVER_S",
     "name": "Metallic Heart Crossbody Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Silver",
         "price": "S$95.90",
@@ -7753,12 +7778,12 @@
     }
   },
   {
-    "id": 167,
+    "id": 168,
     "itemId": "CK2-10782636",
     "itemIdWithColor": "CK2-10782636_JT.BLK_S",
     "name": "Mesh Sequin-Flower Tote Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Jet_Black",
         "price": "S$75.90",
@@ -7788,12 +7813,12 @@
     }
   },
   {
-    "id": 168,
+    "id": 169,
     "itemId": "CK2-20671718",
     "itemIdWithColor": "CK2-20671718_CREAM_M",
     "name": "Fawn Panelled Chain-Handle Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$99.90",
@@ -7833,12 +7858,12 @@
     }
   },
   {
-    "id": 169,
+    "id": 170,
     "itemId": "CK2-20671719",
     "itemIdWithColor": "CK2-20671719_CREAM_M",
     "name": "Fawn Panelled Front Flap Chain-Handle Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$89.90",
@@ -7879,12 +7904,12 @@
     }
   },
   {
-    "id": 170,
+    "id": 171,
     "itemId": "CK6-10840559-A",
     "itemIdWithColor": "CK6-10840559-A_CREAM_XS",
     "name": "Kristine Sculptural-Handle Long Wallet",
     "size": "XS",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -7942,12 +7967,12 @@
     }
   },
   {
-    "id": 171,
+    "id": 172,
     "itemId": "CK2-00681173",
     "itemIdWithColor": "CK2-00681173_CREAM_XXS",
     "name": "Andromeda Micro Bag Charm",
     "size": "XXS",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$39.90",
@@ -8000,12 +8025,12 @@
     }
   },
   {
-    "id": 172,
+    "id": 173,
     "itemId": "CK2-30160223",
     "itemIdWithColor": "CK2-30160223_CREAM_L",
     "name": "Andromeda Chunky-Chain Trapeze Tote Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$119.00",
@@ -8045,12 +8070,12 @@
     }
   },
   {
-    "id": 173,
+    "id": 174,
     "itemId": "CK2-30160225",
     "itemIdWithColor": "CK2-30160225_CREAM_XL",
     "name": "Andromeda Chunky-Chain Trapeze XL Tote Bag",
     "size": "XL",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$129.00",
@@ -8087,12 +8112,12 @@
     }
   },
   {
-    "id": 174,
+    "id": 175,
     "itemId": "CK2-50271476-1",
     "itemIdWithColor": "CK2-50271476-1_NOIR_S",
     "name": "Andromeda Croc-Effect Chunky-Chain Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir",
         "price": "S$79.90",
@@ -8122,12 +8147,12 @@
     }
   },
   {
-    "id": 175,
+    "id": 176,
     "itemId": "CK2-60782562",
     "itemIdWithColor": "CK2-60782562_CREAM_S",
     "name": "Duo Jacquard Chain-Handle Two-Way Backpack",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$99.90",
@@ -8177,12 +8202,12 @@
     }
   },
   {
-    "id": 176,
+    "id": 177,
     "itemId": "CK2-20271470",
     "itemIdWithColor": "CK2-20271470_LT.GRY_S",
     "name": "Nylon Chain-Link Trapeze Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Light_Grey",
         "price": "S$65.90",
@@ -8222,12 +8247,12 @@
     }
   },
   {
-    "id": 177,
+    "id": 178,
     "itemId": "CK2-20271479",
     "itemIdWithColor": "CK2-20271479_LT.GRY_XL",
     "name": "Nylon Chain-Link Slouchy Shoulder Bag",
     "size": "XL",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Light_Grey",
         "price": "S$79.90",
@@ -8277,12 +8302,12 @@
     }
   },
   {
-    "id": 178,
+    "id": 179,
     "itemId": "CK2-50782379-A",
     "itemIdWithColor": "CK2-50782379-A_CREAM_M",
     "name": "Arwen Croc-Effect Braided-Strap Top Handle Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -8353,12 +8378,12 @@
     }
   },
   {
-    "id": 179,
+    "id": 180,
     "itemId": "CK2-60151506",
     "itemIdWithColor": "CK2-60151506_LT.GRY_L",
     "name": "Nylon Puffy Chain-Link Backpack",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Light_Grey",
         "price": "S$89.90",
@@ -8409,12 +8434,12 @@
     }
   },
   {
-    "id": 180,
+    "id": 181,
     "itemId": "CK2-80840578",
     "itemIdWithColor": "CK2-80840578_CREAM_S",
     "name": "Samantha Envelope Chain-Embellished Crossbody Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -8443,12 +8468,12 @@
     }
   },
   {
-    "id": 181,
+    "id": 182,
     "itemId": "CK2-50701513",
     "itemIdWithColor": "CK2-50701513_CREAM_S",
     "name": "Samantha Envelope Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -8477,12 +8502,12 @@
     }
   },
   {
-    "id": 182,
+    "id": 183,
     "itemId": "CK2-00271427",
     "itemIdWithColor": "CK2-00271427_CHALK_XS",
     "name": "Furry Mini Bag",
     "size": "XS",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chalk",
         "price": "S$59.90",
@@ -8520,12 +8545,12 @@
     }
   },
   {
-    "id": 183,
+    "id": 184,
     "itemId": "CK2-80671707",
     "itemIdWithColor": "CK2-80671707_CREAM_S",
     "name": "Duo Quilted Vanity Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -8565,12 +8590,12 @@
     }
   },
   {
-    "id": 184,
+    "id": 185,
     "itemId": "CK2-20271514",
     "itemIdWithColor": "CK2-20271514_GREY_L",
     "name": "Sianna Chain-Handle Shoulder Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Grey",
         "price": "S$89.90",
@@ -8601,12 +8626,12 @@
     }
   },
   {
-    "id": 185,
+    "id": 186,
     "itemId": "CK2-10271436",
     "itemIdWithColor": "CK2-10271436_CREAM_S",
     "name": "Wisteria Belted Bucket Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -8644,12 +8669,12 @@
     }
   },
   {
-    "id": 186,
+    "id": 187,
     "itemId": "CK2-40671716",
     "itemIdWithColor": "CK2-40671716_CHALK_S",
     "name": "Micro Toni Knotted Crescent Hobo Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chalk",
         "price": "S$65.90",
@@ -8689,12 +8714,12 @@
     }
   },
   {
-    "id": 187,
+    "id": 188,
     "itemId": "CK2-20782465",
     "itemIdWithColor": "CK2-20782465_CREAM_M",
     "name": "Brigette Ruched Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -8744,12 +8769,12 @@
     }
   },
   {
-    "id": 188,
+    "id": 189,
     "itemId": "CK2-20782466",
     "itemIdWithColor": "CK2-20782466_CREAM_S",
     "name": "Brigette Ruched Chain-Handle Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -8819,12 +8844,12 @@
     }
   },
   {
-    "id": 189,
+    "id": 190,
     "itemId": "CK2-20782471",
     "itemIdWithColor": "CK2-20782471_CREAM_M",
     "name": "Aurelia Metallic-Accent Saddle Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -8865,12 +8890,12 @@
     }
   },
   {
-    "id": 190,
+    "id": 191,
     "itemId": "CK2-40782486",
     "itemIdWithColor": "CK2-40782486_BEIGE_M",
     "name": "Kora Metallic-Accent Moon Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Beige",
         "price": "S$85.90",
@@ -8917,12 +8942,12 @@
     }
   },
   {
-    "id": 191,
+    "id": 192,
     "itemId": "CK2-40782487",
     "itemIdWithColor": "CK2-40782487_BLACK_S",
     "name": "Mini Kora Chain-Link Moon Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$75.90",
@@ -8952,12 +8977,12 @@
     }
   },
   {
-    "id": 192,
+    "id": 193,
     "itemId": "CK2-40782487-1",
     "itemIdWithColor": "CK2-40782487-1_BLACK_S",
     "name": "Mini Kora Croc-Effect Chain-Link Moon Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$75.90",
@@ -8987,12 +9012,12 @@
     }
   },
   {
-    "id": 193,
+    "id": 194,
     "itemId": "CK2-10840580",
     "itemIdWithColor": "CK2-10840580_OAT_S",
     "name": "Charlot Elongated Bucket Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Oat",
         "price": "S$79.90",
@@ -9022,12 +9047,12 @@
     }
   },
   {
-    "id": 194,
+    "id": 195,
     "itemId": "CK2-20271412",
     "itemIdWithColor": "CK2-20271412_GREY_S",
     "name": "Structured Boxy Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Grey",
         "price": "S$69.90",
@@ -9055,12 +9080,12 @@
     }
   },
   {
-    "id": 195,
+    "id": 196,
     "itemId": "CK2-20271447",
     "itemIdWithColor": "CK2-20271447_BEIGE_XL",
     "name": "Agatha Chain-Accent Slouchy Hobo Bag",
     "size": "XL",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Beige",
         "price": "S$89.90",
@@ -9100,12 +9125,12 @@
     }
   },
   {
-    "id": 196,
+    "id": 197,
     "itemId": "CK2-40782446",
     "itemIdWithColor": "CK2-40782446_GREY_L",
     "name": "Hertha Trapeze Slouchy Hobo Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Grey",
         "price": "S$89.90",
@@ -9155,12 +9180,12 @@
     }
   },
   {
-    "id": 197,
+    "id": 198,
     "itemId": "SL2-20671686",
     "itemIdWithColor": "SL2-20671686_NOIR_S",
     "name": "Gabine Leather Elongated Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir",
         "price": "S$139.00",
@@ -9190,12 +9215,12 @@
     }
   },
   {
-    "id": 198,
+    "id": 199,
     "itemId": "CK2-30271400",
     "itemIdWithColor": "CK2-30271400_TOFFEE_S",
     "name": "Rene Elongated Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Toffee",
         "price": "S$69.90",
@@ -9222,12 +9247,12 @@
     }
   },
   {
-    "id": 199,
+    "id": 200,
     "itemId": "SL2-10681164",
     "itemIdWithColor": "SL2-10681164_BROWN_S",
     "name": "Gabine Leather Belted Bucket Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Brown",
         "price": "S$139.00",
@@ -9267,22 +9292,12 @@
     }
   },
   {
-    "id": 200,
+    "id": 201,
     "itemId": "CK2-20271411",
-    "itemIdWithColor": "CK2-20271411_OAT_S",
+    "itemIdWithColor": "CK2-20271411_JT.BLK_S",
     "name": "Midori Geometric Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
-      {
-        "color": "Oat",
-        "price": "S$69.90",
-        "url": "https://www.charleskeith.com/sg/CK2-20271411_OAT.html",
-        "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwabe3226a/images/hi-res/2024-L6-CK2-20271411-K5-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwd289fb22/images/hi-res/2024-L6-CK2-20271411-K5-2.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw207ab1df/images/hi-res/2024-L6-CK2-20271411-K5-3.jpg?sw=1152&sh=1536"
-        ]
-      },
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Jet_Black",
         "price": "S$69.90",
@@ -9291,6 +9306,16 @@
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw8d2a52aa/images/hi-res/2024-L6-CK2-20271411-J9-1.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwc7da8d98/images/hi-res/2024-L6-CK2-20271411-J9-2.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwc47a77ca/images/hi-res/2024-L6-CK2-20271411-J9-3.jpg?sw=1152&sh=1536"
+        ]
+      },
+      {
+        "color": "Oat",
+        "price": "S$69.90",
+        "url": "https://www.charleskeith.com/sg/CK2-20271411_OAT.html",
+        "imagesUrls": [
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwabe3226a/images/hi-res/2024-L6-CK2-20271411-K5-1.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwd289fb22/images/hi-res/2024-L6-CK2-20271411-K5-2.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw207ab1df/images/hi-res/2024-L6-CK2-20271411-K5-3.jpg?sw=1152&sh=1536"
         ]
       },
       {
@@ -9320,12 +9345,12 @@
     }
   },
   {
-    "id": 201,
+    "id": 202,
     "itemId": "CK2-20782418",
     "itemIdWithColor": "CK2-20782418_NOIR_S",
     "name": "Caia Front Flap Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir",
         "price": "S$79.90",
@@ -9356,12 +9381,12 @@
     }
   },
   {
-    "id": 202,
+    "id": 203,
     "itemId": "CK2-20782436-1",
     "itemIdWithColor": "CK2-20782436-1_DN.BLU_M",
     "name": "Caia Denim Chain-Handle Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Denim_Blue",
         "price": "S$89.90",
@@ -9391,12 +9416,12 @@
     }
   },
   {
-    "id": 203,
+    "id": 204,
     "itemId": "CK2-20782436",
     "itemIdWithColor": "CK2-20782436_CREAM_M",
     "name": "Caia Chain-Handle Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$89.90",
@@ -9442,22 +9467,12 @@
     }
   },
   {
-    "id": 204,
+    "id": 205,
     "itemId": "CK2-30782438",
-    "itemIdWithColor": "CK2-30782438_OAT_S",
+    "itemIdWithColor": "CK2-30782438_JT.BLK_S",
     "name": "Midori Geometric Elongated Tote Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
-      {
-        "color": "Oat",
-        "price": "S$69.90",
-        "url": "https://www.charleskeith.com/sg/CK2-30782438_OAT.html",
-        "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw98e15846/images/hi-res/2024-L6-CK2-30782438-K5-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw2c32f810/images/hi-res/2024-L6-CK2-30782438-K5-3.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwd27769d8/images/hi-res/2024-L6-CK2-30782438-K5-4.jpg?sw=1152&sh=1536"
-        ]
-      },
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Jet_Black",
         "price": "S$69.90",
@@ -9466,6 +9481,16 @@
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwaf22f348/images/hi-res/2024-L6-CK2-30782438-J9-1.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwa92f65db/images/hi-res/2024-L6-CK2-30782438-J9-2.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwce921cc4/images/hi-res/2024-L6-CK2-30782438-J9-3.jpg?sw=1152&sh=1536"
+        ]
+      },
+      {
+        "color": "Oat",
+        "price": "S$69.90",
+        "url": "https://www.charleskeith.com/sg/CK2-30782438_OAT.html",
+        "imagesUrls": [
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw98e15846/images/hi-res/2024-L6-CK2-30782438-K5-1.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw2c32f810/images/hi-res/2024-L6-CK2-30782438-K5-3.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwd27769d8/images/hi-res/2024-L6-CK2-30782438-K5-4.jpg?sw=1152&sh=1536"
         ]
       }
     ],
@@ -9487,12 +9512,12 @@
     }
   },
   {
-    "id": 205,
+    "id": 206,
     "itemId": "CK2-40782413",
     "itemIdWithColor": "CK2-40782413_CREAM_M",
     "name": "Xylia Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -9531,12 +9556,12 @@
     }
   },
   {
-    "id": 206,
+    "id": 207,
     "itemId": "CK2-40782413-1",
     "itemIdWithColor": "CK2-40782413-1_DN.BLU_M",
     "name": "Xylia Denim Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Denim_Blue",
         "price": "S$79.90",
@@ -9565,12 +9590,12 @@
     }
   },
   {
-    "id": 207,
+    "id": 208,
     "itemId": "CK2-50782376-3",
     "itemIdWithColor": "CK2-50782376-3_MULTI_S",
     "name": "Arwen Top Handle Basket Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Multi",
         "price": "S$119.00",
@@ -9599,12 +9624,12 @@
     }
   },
   {
-    "id": 208,
+    "id": 209,
     "itemId": "CK2-30671684",
     "itemIdWithColor": "CK2-30671684_S.BLUE_M",
     "name": "Sybill Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Slate_Blue",
         "price": "S$85.90",
@@ -9644,12 +9669,12 @@
     }
   },
   {
-    "id": 209,
+    "id": 210,
     "itemId": "CK2-30671684-1",
     "itemIdWithColor": "CK2-30671684-1_MULTI_M",
     "name": "Sybill Faux Suede Fur-Trim Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Multi",
         "price": "S$85.90",
@@ -9679,12 +9704,12 @@
     }
   },
   {
-    "id": 210,
+    "id": 211,
     "itemId": "CK2-30782435",
     "itemIdWithColor": "CK2-30782435_TOFFEE_S",
     "name": "Temmie Structured Tote Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Toffee",
         "price": "S$75.90",
@@ -9714,12 +9739,12 @@
     }
   },
   {
-    "id": 211,
+    "id": 212,
     "itemId": "CK2-80151417",
     "itemIdWithColor": "CK2-80151417_PEWTER_M",
     "name": "Philomena Metallic Half-Moon Crossbody Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Pewter",
         "price": "S$85.90",
@@ -9759,12 +9784,12 @@
     }
   },
   {
-    "id": 212,
+    "id": 213,
     "itemId": "CK2-80151417-1",
     "itemIdWithColor": "CK2-80151417-1_JT.BLK_M",
     "name": "Philomena Shiny Half-Moon Crossbody Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Jet_Black",
         "price": "S$85.90",
@@ -9792,12 +9817,12 @@
     }
   },
   {
-    "id": 213,
+    "id": 214,
     "itemId": "CK2-30151421-1",
     "itemIdWithColor": "CK2-30151421-1_JT.BLK_S",
     "name": "Mini Bethel Shiny Ruched Drawstring Tote Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Jet_Black",
         "price": "S$65.90",
@@ -9825,12 +9850,12 @@
     }
   },
   {
-    "id": 214,
+    "id": 215,
     "itemId": "CK2-30782406-1",
     "itemIdWithColor": "CK2-30782406-1_JT.BLK_XL",
     "name": "Bethel Shiny Ruched Drawstring Tote Bag",
     "size": "XL",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Jet_Black",
         "price": "S$89.90",
@@ -9856,12 +9881,12 @@
     }
   },
   {
-    "id": 215,
+    "id": 216,
     "itemId": "CK2-20271461",
     "itemIdWithColor": "CK2-20271461_TOFFEE_M",
     "name": "Sybill Trapeze Chain-Handle Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Toffee",
         "price": "S$75.90",
@@ -9891,12 +9916,12 @@
     }
   },
   {
-    "id": 216,
+    "id": 217,
     "itemId": "CK2-40271360-1",
     "itemIdWithColor": "CK2-40271360-1_DN.BLU_M",
     "name": "Lark Denim Hobo Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Denim_Blue",
         "price": "S$79.90",
@@ -9924,12 +9949,12 @@
     }
   },
   {
-    "id": 217,
+    "id": 218,
     "itemId": "CK2-30151421",
     "itemIdWithColor": "CK2-30151421_CREAM_S",
     "name": "Mini Bethel Crinkle-Effect Ruched Drawstring Tote Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$65.90",
@@ -9979,12 +10004,12 @@
     }
   },
   {
-    "id": 218,
+    "id": 219,
     "itemId": "CK2-40840561",
     "itemIdWithColor": "CK2-40840561_BLACK_L",
     "name": "Charlot Hobo Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$89.90",
@@ -10024,12 +10049,12 @@
     }
   },
   {
-    "id": 219,
+    "id": 220,
     "itemId": "CK2-50271205",
     "itemIdWithColor": "CK2-50271205_CHALK_S",
     "name": "Trice Metallic Accent Belted Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chalk",
         "price": "S$65.90",
@@ -10078,12 +10103,12 @@
     }
   },
   {
-    "id": 220,
+    "id": 221,
     "itemId": "CK2-30160169",
     "itemIdWithColor": "CK2-30160169_BEIGE_M",
     "name": "Eve Ruched-Handle Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Beige",
         "price": "S$79.90",
@@ -10113,12 +10138,12 @@
     }
   },
   {
-    "id": 221,
+    "id": 222,
     "itemId": "CK2-40271360",
     "itemIdWithColor": "CK2-40271360_CREAM_M",
     "name": "Lark Crinkle-Effect Hobo Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -10156,12 +10181,12 @@
     }
   },
   {
-    "id": 222,
+    "id": 223,
     "itemId": "CK2-80160183",
     "itemIdWithColor": "CK2-80160183_CREAM_S",
     "name": "Lark Crinkle-Effect Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$59.90",
@@ -10183,16 +10208,6 @@
         ]
       },
       {
-        "color": "Noir",
-        "price": "S$59.90",
-        "url": "https://www.charleskeith.com/sg/CK2-80160183_NOIR.html",
-        "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw993ee4f9/images/hi-res/2024-L3-CK2-80160183-J8-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw46d0e15a/images/hi-res/2024-L3-CK2-80160183-J8-3.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw3d99ba95/images/hi-res/2024-L3-CK2-80160183-J8-4.jpg?sw=1152&sh=1536"
-        ]
-      },
-      {
         "color": "Prism_Silver",
         "price": "S$59.90",
         "url": "https://www.charleskeith.com/sg/CK2-80160183_PR.SLV.html",
@@ -10200,6 +10215,16 @@
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwa18c74de/images/hi-res/2024-L3-CK2-80160183-O5-1.jpg?sw=1152&sh=1536",
           "//www.charleskeith.com/on/demandware.static/-/Sites-ck-products/default/dw51eab558/images/hi-res/2025-L3-CK2-80160183-O5-2.JPG",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw39c8a76a/images/hi-res/2025-L3-CK2-80160183-O5-3.jpg?sw=1152&sh=1536"
+        ]
+      },
+      {
+        "color": "Noir",
+        "price": "S$59.90",
+        "url": "https://www.charleskeith.com/sg/CK2-80160183_NOIR.html",
+        "imagesUrls": [
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw993ee4f9/images/hi-res/2024-L3-CK2-80160183-J8-1.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw46d0e15a/images/hi-res/2024-L3-CK2-80160183-J8-3.jpg?sw=1152&sh=1536",
+          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw3d99ba95/images/hi-res/2024-L3-CK2-80160183-J8-4.jpg?sw=1152&sh=1536"
         ]
       }
     ],
@@ -10221,12 +10246,12 @@
     }
   },
   {
-    "id": 223,
+    "id": 224,
     "itemId": "SL2-50840566",
     "itemIdWithColor": "SL2-50840566_WHITE_S",
     "name": "Leather Bow Top-Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "White",
         "price": "S$129.00",
@@ -10261,12 +10286,12 @@
     }
   },
   {
-    "id": 224,
+    "id": 225,
     "itemId": "CK2-10151393",
     "itemIdWithColor": "CK2-10151393_CREAM_L",
     "name": "Neva Two-Way Bucket Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$85.90",
@@ -10316,12 +10341,12 @@
     }
   },
   {
-    "id": 225,
+    "id": 226,
     "itemId": "CK2-30271414",
     "itemIdWithColor": "CK2-30271414_BLACK_M",
     "name": "Cesia Metallic Accent Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$89.90",
@@ -10351,12 +10376,12 @@
     }
   },
   {
-    "id": 226,
+    "id": 227,
     "itemId": "CK2-50782360-1",
     "itemIdWithColor": "CK2-50782360-1_CHOCO_L",
     "name": "Shania Canvas Tote Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chocolate",
         "price": "S$99.90",
@@ -10386,12 +10411,12 @@
     }
   },
   {
-    "id": 227,
+    "id": 228,
     "itemId": "CK2-80782348",
     "itemIdWithColor": "CK2-80782348_JT.BLK_S",
     "name": "Matina Crinkle-Effect Crossbody Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Jet_Black",
         "price": "S$65.90",
@@ -10420,12 +10445,12 @@
     }
   },
   {
-    "id": 228,
+    "id": 229,
     "itemId": "CK2-40782361",
     "itemIdWithColor": "CK2-40782361_GREY_L",
     "name": "Lumen Slouchy Hobo Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Grey",
         "price": "S$85.90",
@@ -10465,12 +10490,12 @@
     }
   },
   {
-    "id": 229,
+    "id": 230,
     "itemId": "CK2-80271404",
     "itemIdWithColor": "CK2-80271404_CREAM_M",
     "name": "Lumen Padded Crossbody Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -10510,12 +10535,12 @@
     }
   },
   {
-    "id": 230,
+    "id": 231,
     "itemId": "CK2-40782355",
     "itemIdWithColor": "CK2-40782355_BEIGE_M",
     "name": "Ida Knitted Hobo Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Beige",
         "price": "S$79.90",
@@ -10545,12 +10570,12 @@
     }
   },
   {
-    "id": 231,
+    "id": 232,
     "itemId": "CK2-20271345",
     "itemIdWithColor": "CK2-20271345_JT.BLK_S",
     "name": "Sabine Knotted-Strap Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Jet_Black",
         "price": "S$65.90",
@@ -10578,12 +10603,12 @@
     }
   },
   {
-    "id": 232,
+    "id": 233,
     "itemId": "CK2-20271345-1",
     "itemIdWithColor": "CK2-20271345-1_BLACK_S",
     "name": "Sabine Canvas Knotted-Strap Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$65.90",
@@ -10611,12 +10636,12 @@
     }
   },
   {
-    "id": 233,
+    "id": 234,
     "itemId": "CK2-50782360",
     "itemIdWithColor": "CK2-50782360_CHOCO_L",
     "name": "Shania Tote Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chocolate",
         "price": "S$99.90",
@@ -10646,12 +10671,12 @@
     }
   },
   {
-    "id": 234,
+    "id": 235,
     "itemId": "CK2-10782094",
     "itemIdWithColor": "CK2-10782094_BEIGE_M",
     "name": "Alcott Bucket Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Beige",
         "price": "S$95.90",
@@ -10682,12 +10707,12 @@
     }
   },
   {
-    "id": 235,
+    "id": 236,
     "itemId": "SL2-20271320",
     "itemIdWithColor": "SL2-20271320_WHITE_M",
     "name": "Leather Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "White",
         "price": "S$129.00",
@@ -10745,12 +10770,12 @@
     }
   },
   {
-    "id": 236,
+    "id": 237,
     "itemId": "SL2-20271320-1",
     "itemIdWithColor": "SL2-20271320-1_BLUE_M",
     "name": "Denim Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Blue",
         "price": "S$129.00",
@@ -10788,12 +10813,12 @@
     }
   },
   {
-    "id": 237,
+    "id": 238,
     "itemId": "SL2-20271321",
     "itemIdWithColor": "SL2-20271321_WHITE_S",
     "name": "Leather Boxy Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "White",
         "price": "S$109.00",
@@ -10831,12 +10856,12 @@
     }
   },
   {
-    "id": 238,
+    "id": 239,
     "itemId": "CK2-50782337",
     "itemIdWithColor": "CK2-50782337_TAUPE_S",
     "name": "Elora Curved Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Taupe",
         "price": "S$69.90",
@@ -10886,12 +10911,12 @@
     }
   },
   {
-    "id": 239,
+    "id": 240,
     "itemId": "CK2-20671598",
     "itemIdWithColor": "CK2-20671598_NOIR_S",
     "name": "Daylla Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir",
         "price": "S$65.90",
@@ -10921,12 +10946,12 @@
     }
   },
   {
-    "id": 240,
+    "id": 241,
     "itemId": "CK2-30701396",
     "itemIdWithColor": "CK2-30701396_CREAM_M",
     "name": "Mini Daylla Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$75.90",
@@ -10966,12 +10991,12 @@
     }
   },
   {
-    "id": 241,
+    "id": 242,
     "itemId": "CK2-30701396-1",
     "itemIdWithColor": "CK2-30701396-1_TAN_M",
     "name": "Mini Daylla Canvas Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Tan",
         "price": "S$75.90",
@@ -10999,12 +11024,12 @@
     }
   },
   {
-    "id": 242,
+    "id": 243,
     "itemId": "CK2-31200033",
     "itemIdWithColor": "CK2-31200033_CREAM_L",
     "name": "Daylla Tote Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$85.90",
@@ -11044,12 +11069,12 @@
     }
   },
   {
-    "id": 243,
+    "id": 244,
     "itemId": "CK2-20782328",
     "itemIdWithColor": "CK2-20782328_BLACK_M",
     "name": "Wisteria Belted Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$89.90",
@@ -11089,12 +11114,12 @@
     }
   },
   {
-    "id": 244,
+    "id": 245,
     "itemId": "CK2-60151400",
     "itemIdWithColor": "CK2-60151400_CREAM_S",
     "name": "Aubrielle Quilted Backpack",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$95.90",
@@ -11145,12 +11170,12 @@
     }
   },
   {
-    "id": 245,
+    "id": 246,
     "itemId": "CK2-10671605",
     "itemIdWithColor": "CK2-10671605_NOIR_M",
     "name": "Aubrielle Bucket Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir",
         "price": "S$89.90",
@@ -11180,12 +11205,12 @@
     }
   },
   {
-    "id": 246,
+    "id": 247,
     "itemId": "CK2-20271258",
     "itemIdWithColor": "CK2-20271258_NOIR_S",
     "name": "Petra Curved Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir",
         "price": "S$69.90",
@@ -11225,12 +11250,12 @@
     }
   },
   {
-    "id": 247,
+    "id": 248,
     "itemId": "CK2-70782173",
     "itemIdWithColor": "CK2-70782173_CREAM_M",
     "name": "Cressida Quilted Chain Strap Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$89.90",
@@ -11269,12 +11294,12 @@
     }
   },
   {
-    "id": 248,
+    "id": 249,
     "itemId": "CK2-20271258-1",
     "itemIdWithColor": "CK2-20271258-1_DN.BLU_S",
     "name": "Petra Denim Curved Shoulder Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Denim_Blue",
         "price": "S$69.90",
@@ -11304,12 +11329,12 @@
     }
   },
   {
-    "id": 249,
+    "id": 250,
     "itemId": "CK2-70701372",
     "itemIdWithColor": "CK2-70701372_BLACK_S",
     "name": "Tallulah Quilted Push-Lock Clutch",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$65.90",
@@ -11348,12 +11373,12 @@
     }
   },
   {
-    "id": 250,
+    "id": 251,
     "itemId": "CK2-80782276",
     "itemIdWithColor": "CK2-80782276_TAN_S",
     "name": "Midori Geometric Crossbody Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Tan",
         "price": "S$69.90",
@@ -11380,12 +11405,12 @@
     }
   },
   {
-    "id": 251,
+    "id": 252,
     "itemId": "CK2-30271265",
     "itemIdWithColor": "CK2-30271265_WHITE_M",
     "name": "Harper Structured Top Handle Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "White",
         "price": "S$85.90",
@@ -11404,16 +11429,6 @@
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw6e968e4f/images/hi-res/2023-L7-CK2-30271265-14-1.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw066008e9/images/hi-res/2023-L7-CK2-30271265-14-2.jpg?sw=1152&sh=1536",
           "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwdb9ba8f1/images/hi-res/2023-L7-CK2-30271265-14-3.jpg?sw=1152&sh=1536"
-        ]
-      },
-      {
-        "color": "Black",
-        "price": "S$85.90",
-        "url": "https://www.charleskeith.com/sg/CK2-30271265_BLACK.html",
-        "imagesUrls": [
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw0c211667/images/hi-res/2023-L7-CK2-30271265-01-1.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dw46bf8957/images/hi-res/2023-L7-CK2-30271265-01-2.jpg?sw=1152&sh=1536",
-          "https://www.charleskeith.com/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-ck-products/default/dwceb852dc/images/hi-res/2023-L7-CK2-30271265-01-3.jpg?sw=1152&sh=1536"
         ]
       }
     ],
@@ -11434,12 +11449,12 @@
     }
   },
   {
-    "id": 252,
+    "id": 253,
     "itemId": "CK2-30271265-1",
     "itemIdWithColor": "CK2-30271265-1_IVORY_M",
     "name": "Harper Croc-Effect Structured Top Handle Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Ivory",
         "price": "S$85.90",
@@ -11478,12 +11493,12 @@
     }
   },
   {
-    "id": 253,
+    "id": 254,
     "itemId": "CK2-30271268",
     "itemIdWithColor": "CK2-30271268_CREAM_M",
     "name": "Midori Geometric Tote Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$99.90",
@@ -11531,12 +11546,12 @@
     }
   },
   {
-    "id": 254,
+    "id": 255,
     "itemId": "CK2-80160156",
     "itemIdWithColor": "CK2-80160156_IVORY_M",
     "name": "Octavia Front Flap Top Handle Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Ivory",
         "price": "S$79.90",
@@ -11587,12 +11602,12 @@
     }
   },
   {
-    "id": 255,
+    "id": 256,
     "itemId": "CK2-20782291",
     "itemIdWithColor": "CK2-20782291_TAUPE_XL",
     "name": "Leia Tote Bag",
     "size": "XL",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Taupe",
         "price": "S$85.90",
@@ -11632,12 +11647,12 @@
     }
   },
   {
-    "id": 256,
+    "id": 257,
     "itemId": "CK2-80151347",
     "itemIdWithColor": "CK2-80151347_CREAM_M",
     "name": "Philomena Puffy Chain-Strap Crossbody Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$79.90",
@@ -11667,12 +11682,12 @@
     }
   },
   {
-    "id": 257,
+    "id": 258,
     "itemId": "CK2-80151347-1",
     "itemIdWithColor": "CK2-80151347-1_NOIR_M",
     "name": "Philomena Nylon Puffy Chain-Strap Crossbody Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir",
         "price": "S$79.90",
@@ -11702,12 +11717,12 @@
     }
   },
   {
-    "id": 258,
+    "id": 259,
     "itemId": "CK2-80151325",
     "itemIdWithColor": "CK2-80151325_CREAM_S",
     "name": "Philomena Half-Moon Crossbody Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$75.90",
@@ -11767,12 +11782,12 @@
     }
   },
   {
-    "id": 259,
+    "id": 260,
     "itemId": "CK2-40780136-6",
     "itemIdWithColor": "CK2-40780136-6_BEIGE_L",
     "name": "Bellamy Drawstring Hobo Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Beige",
         "price": "S$79.90",
@@ -11811,12 +11826,12 @@
     }
   },
   {
-    "id": 260,
+    "id": 261,
     "itemId": "CK2-20671559",
     "itemIdWithColor": "CK2-20671559_CHOCO_M",
     "name": "Duo Chain Handle Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chocolate",
         "price": "S$99.90",
@@ -11846,12 +11861,12 @@
     }
   },
   {
-    "id": 261,
+    "id": 262,
     "itemId": "CK2-50782198",
     "itemIdWithColor": "CK2-50782198_WHITE_S",
     "name": "Koa Push-Lock Top Handle Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "White",
         "price": "S$89.90",
@@ -11901,12 +11916,12 @@
     }
   },
   {
-    "id": 262,
+    "id": 263,
     "itemId": "CK2-20271135",
     "itemIdWithColor": "CK2-20271135_PINK_S",
     "name": "Braided Chain-Link Wavy Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Pink",
         "price": "S$79.90",
@@ -11936,12 +11951,12 @@
     }
   },
   {
-    "id": 263,
+    "id": 264,
     "itemId": "CK2-20270818-2",
     "itemIdWithColor": "CK2-20270818-2_CREAM_M",
     "name": "Koa Square Push-Lock Shoulder Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Cream",
         "price": "S$69.90",
@@ -11972,12 +11987,12 @@
     }
   },
   {
-    "id": 264,
+    "id": 265,
     "itemId": "CK2-80701288-4",
     "itemIdWithColor": "CK2-80701288-4_BLACK_S",
     "name": "Front Flap Chain Handle Crossbody Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$69.90",
@@ -12005,12 +12020,12 @@
     }
   },
   {
-    "id": 265,
+    "id": 266,
     "itemId": "CK2-80151064-3",
     "itemIdWithColor": "CK2-80151064-3_IVORY_S",
     "name": "Philomena Wrinkled-Effect Half-Moon Crossbody Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Ivory",
         "price": "S$75.90",
@@ -12033,12 +12048,12 @@
     }
   },
   {
-    "id": 266,
+    "id": 267,
     "itemId": "CK2-10671729-1",
     "itemIdWithColor": "CK2-10671729-1_BLACK_L",
     "name": "Enola Canvas Elongated Bucket Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Black",
         "price": "S$89.90",
@@ -12067,12 +12082,12 @@
     }
   },
   {
-    "id": 267,
+    "id": 268,
     "itemId": "CK2-20782266-A",
     "itemIdWithColor": "CK2-20782266-A_SILVER_L",
     "name": "Cyrus Metallic Bow Ruched Chain-Handle Bag",
     "size": "L",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Silver",
         "price": "S$79.90",
@@ -12102,12 +12117,12 @@
     }
   },
   {
-    "id": 268,
+    "id": 269,
     "itemId": "CK2-40160211-A",
     "itemIdWithColor": "CK2-40160211-A_CHALK_M",
     "name": "Crescent Hobo Bag",
     "size": "M",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Chalk",
         "price": "S$85.90",
@@ -12141,12 +12156,12 @@
     }
   },
   {
-    "id": 269,
+    "id": 270,
     "itemId": "CK2-80151353-B",
     "itemIdWithColor": "CK2-80151353-B_NOIR_S",
     "name": "Philomena Bow Quilted Heart Crossbody Bag",
     "size": "S",
-    "colorAndPriceAndUrl": [
+    "colorAndPriceAndUrlAndImageUrls": [
       {
         "color": "Noir",
         "price": "S$75.90",
