@@ -1,14 +1,18 @@
 import * as fs from "fs";
+import fsp from "fs/promises";
 import ExcelJS from "exceljs";
+import path from "path";
+import { fileURLToPath } from "url";
 
-const exchange_rate = 3450;
-const workbook = new ExcelJS.Workbook();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // --- Load product data from JSON file ---
-const rawData = fs.readFileSync("../../data/json/bagsData.json", "utf-8");
+const jsonPath = path.join(__dirname, "../../data/json/bagsData.json");
+const rawData = fs.readFileSync(jsonPath, "utf-8");
 const products = JSON.parse(rawData);
 
-const generateProductSheet = () => {
+const generateProductSheet = (workbook, exchangeRate) => {
   const sheet = workbook.addWorksheet("product");
 
   const generateRows = (product) => {
@@ -30,7 +34,7 @@ const generateProductSheet = () => {
         "Sales Price": 0,
         product_x_studio_sgd_discounted_price: 0,
         product_x_studio_sgd_1: 0,
-        product_x_studio_fx_rate: exchange_rate,
+        product_x_studio_fx_rate: exchangeRate,
         product_x_studio_web_org_url:
           product.colorAndPriceAndUrlAndImageUrls[0].url,
         image: product.colorAndPriceAndUrlAndImageUrls[0].imagesUrls[0],
@@ -68,7 +72,7 @@ const generateProductSheet = () => {
   });
 };
 
-const generateProductAttributeValueSheet = () => {
+const generateProductAttributeValueSheet = (workbook) => {
   const sheet = workbook.addWorksheet("product_attributes_value");
   const colorSet = new Set();
 
@@ -106,7 +110,7 @@ const generateProductAttributeValueSheet = () => {
   });
 };
 
-const generateProductVariantSheet = () => {
+const generateProductVariantSheet = (workbook, exchangeRate) => {
   const sheet = workbook.addWorksheet("product_variant");
 
   const headers = [
@@ -134,7 +138,7 @@ const generateProductVariantSheet = () => {
       const numericPrice = parseFloat(price.replace(/[^\d.]/g, ""));
       const discount = 10;
       const discountedPrice = numericPrice * (1 - discount / 100);
-      const mmk = discountedPrice * exchange_rate;
+      const mmk = discountedPrice * exchangeRate;
       const firstImage = imagesUrls[0];
 
       imagesUrls.forEach((imgUrl, index) => {
@@ -151,7 +155,7 @@ const generateProductVariantSheet = () => {
           isFirstImage ? Math.round(mmk) : "",
           isFirstImage ? discountedPrice : "",
           isFirstImage ? numericPrice : "",
-          isFirstImage ? exchange_rate : "",
+          isFirstImage ? exchangeRate : "",
         ]);
       });
     });
@@ -169,11 +173,27 @@ const generateProductVariantSheet = () => {
 };
 
 // Call all functions and save in one file
-(async () => {
-  generateProductSheet();
-  generateProductAttributeValueSheet();
-  generateProductVariantSheet();
+export const bagToXlsx = async (exchangeRate) => {
+  try {
+    console.log("Starting bagToXlsx");
 
-  await workbook.xlsx.writeFile("../../data/xlsx/bags.xlsx");
-  console.log("✅ Excel file created: bags.xlsx");
-})();
+    const workbook = new ExcelJS.Workbook();
+
+    generateProductSheet(workbook, exchangeRate);
+    generateProductAttributeValueSheet(workbook);
+    generateProductVariantSheet(workbook, exchangeRate);
+
+    const filePath = path.join(__dirname, "../../data/xlsx/products.xlsx");
+    console.log("Output path:", filePath);
+
+    await workbook.xlsx.writeFile(filePath);
+
+    await fsp.access(filePath);
+    console.log("✅ Excel file created:", filePath);
+  } catch (err) {
+    console.error("❌ Error in bagToXlsx:", err);
+    throw err; // rethrow so Express can handle it
+  }
+};
+
+export default bagToXlsx;

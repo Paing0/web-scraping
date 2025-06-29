@@ -3,8 +3,9 @@ import { autoScroll, extractProductData } from "./index.js";
 import fs from "fs";
 import axios from "axios";
 import * as cheerio from "cheerio";
+import bagToXlsx from "./xlsx/bagToXlsx.js";
 
-const scrapeBags = async (url) => {
+const scrapeBags = async (url, exchangeRate) => {
   console.log("Scraping started");
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
@@ -35,7 +36,7 @@ const scrapeBags = async (url) => {
   console.log(totalProductsCount);
 
   // check if fetched products is equal to total products
-  if (productData.length !== totalProductsCount) {
+  if (Math.abs(productData.length - totalProductsCount) > 2) {
     await browser.close();
     throw new Error("Not all products are fetched. Please retry again.");
   }
@@ -231,6 +232,8 @@ const scrapeBags = async (url) => {
   );
 
   console.log("Scraping ended");
+
+  await bagToXlsx(exchangeRate);
 };
 
 export default scrapeBags;

@@ -110,3 +110,8 @@ select:focus {
     background-size: 100% 115%;
   }
 }
+
+input {
+  min-width: 70px;
+  max-width: 6vw;
+}
